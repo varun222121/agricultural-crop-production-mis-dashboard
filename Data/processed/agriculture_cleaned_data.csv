@@ -1,0 +1,501 @@
+Year,State Name,State Code,District Name,District Code,Crop Name,Crop Code,Crop Type,Season,Area,Area Unit,Production,Production Unit,Yield,Yield Unit,start_year,calculated_yield
+2002-2003,Telangana,36,Nalgonda,514,Groundnut,1001.0,Oilseeds,Rabi,9510.0,Hectare,7361.0,Tonnes,0.774,Tonnes/Hectare,2002,0.7740273396424816
+2013-2014,Tamil Nadu,33,Namakkal,580,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,5.0,Hectare,1.0,Tonnes,0.2,Tonnes/Hectare,2013,0.2
+2002-2003,Rajasthan,8,Jhalawar,105,Other Kharif Pulses,288.0,Pulses,Kharif,114.0,Hectare,11.0,Tonnes,0.096,Tonnes/Hectare,2002,0.09649122807017543
+2009-2010,Uttar Pradesh,9,Ghaziabad,145,Urad,203.0,Pulses,Summer,124.0,Hectare,77.0,Tonnes,0.621,Tonnes/Hectare,2009,0.6209677419354839
+2019-2020,Nagaland,13,Tuensang,249,Sugarcane,401.0,Sugar,Kharif,370.0,Hectare,16135.0,Tonnes,43.608,Tonnes/Hectare,2019,43.608108108108105
+2021-2022,Chhattisgarh,22,Durg,378,Cotton(Lint),1101.0,Fiber Crops,Whole Year,982.0,Hectare,1461.0,Tonnes,1.488,Tonnes/Hectare,2021,1.4877800407331976
+2009-2010,Gujarat,24,Narmada,452,Gram,201.0,Pulses,Rabi,900.0,Hectare,900.0,Tonnes,1.0,Tonnes/Hectare,2009,1.0
+2022-2023,Chhattisgarh,22,Raipur,387,Sweet Potato,703.0,Vegetable,Whole Year,5.0,Hectare,25.0,Tonnes,5.0,Tonnes/Hectare,2022,5.0
+2000-2001,West Bengal,19,Nadia,320,Ginger,503.0,Spices,Kharif,200.0,Hectare,29.0,Tonnes,0.145,Tonnes/Hectare,2000,0.145
+2001-2002,Madhya Pradesh,23,Balaghat,392,Safflower,1008.0,Oilseeds,Rabi,12.0,Hectare,3.0,Tonnes,0.25,Tonnes/Hectare,2001,0.25
+2012-2013,Karnataka,29,Hassan,539,Coriander,509.0,Spices,Whole Year,22.0,Hectare,9.0,Tonnes,0.409,Tonnes/Hectare,2012,0.4090909090909091
+2005-2006,Tamil Nadu,33,Coimbatore,569,Sesamum,1003.0,Oilseeds,Kharif,1478.0,Hectare,715.0,Tonnes,0.484,Tonnes/Hectare,2005,0.4837618403247632
+2021-2022,Uttar Pradesh,9,Farrukhabad,141,Wheat,106.0,Cereals,Rabi,78229.0,Hectare,303294.0,Tonnes,3.877,Tonnes/Hectare,2021,3.87700213475821
+2003-2004,Jharkhand,20,Dumka,326,Rice,101.0,Cereals,Total,83185.71,Hectare,96226.187,Tonnes,1.157,Tonnes/Hectare,2003,1.1567634272761511
+2020-2021,Uttar Pradesh,9,Varanasi,187,Dry Chillies,502.0,Spices,Kharif,483.0,Hectare,428.0,Tonnes,0.886,Tonnes/Hectare,2020,0.8861283643892339
+2021-2022,Telangana,36,Kamareddy,685,Maize,104.0,Cereals,Total,53561.0,Hectare,317765.0,Tonnes,5.933,Tonnes/Hectare,2021,5.9327682455518005
+2021-2022,Karnataka,29,Chamarajanagar,531,Moong(Green Gram),204.0,Pulses,Kharif,484.0,Hectare,101.0,Tonnes,0.209,Tonnes/Hectare,2021,0.20867768595041322
+2007-2008,Assam,18,Bongaigaon,281,Sesamum,1003.0,Oilseeds,Kharif,396.0,Hectare,198.0,Tonnes,0.5,Tonnes/Hectare,2007,0.5
+2008-2009,Jharkhand,20,Pakur,337,Rice,101.0,Cereals,Winter,39664.47,Hectare,20969.33,Tonnes,0.529,Tonnes/Hectare,2008,0.5286678480766288
+1998-1999,Karnataka,29,Raichur,546,Sunflower,1007.0,Oilseeds,Rabi,48627.0,Hectare,13614.0,Tonnes,0.28,Tonnes/Hectare,1998,0.27996791905731383
+2005-2006,Uttar Pradesh,9,Budaun,133,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,20720.0,Hectare,27865.0,Tonnes,1.345,Tonnes/Hectare,2005,1.3448359073359073
+2021-2022,Assam,18,Karbi Anglong,292,Tapioca,702.0,Vegetable,Whole Year,307.0,Hectare,3469.0,Tonnes,11.3,Tonnes/Hectare,2021,11.299674267100977
+2019-2020,Uttar Pradesh,9,Kasganj,633,Masoor,205.0,Pulses,Rabi,1265.0,Hectare,968.0,Tonnes,0.765,Tonnes/Hectare,2019,0.7652173913043478
+2013-2014,Madhya Pradesh,23,Shajapur,430,Dry Chillies,502.0,Spices,Whole Year,218.0,Hectare,110.0,Tonnes,0.505,Tonnes/Hectare,2013,0.5045871559633027
+2017-2018,Chhattisgarh,22,Balrampur-Ramanujganj,649,Potato,701.0,Vegetable,Total,1666.0,Hectare,7812.0,Tonnes,4.689,Tonnes/Hectare,2017,4.689075630252101
+2008-2009,Meghalaya,17,East Khasi Hills,274,Black Pepper,501.0,Spices,Rabi,168.0,Hectare,104.0,Tonnes,0.619,Tonnes/Hectare,2008,0.6190476190476191
+2022-2023,Karnataka,29,Bagalkote,524,Horse-Gram,206.0,Pulses,Total,1728.0,Hectare,753.0,Tonnes,0.436,Tonnes/Hectare,2022,0.4357638888888889
+2007-2008,Rajasthan,8,Bikaner,93,Potato,701.0,Vegetable,Whole Year,2.0,Hectare,2.0,Tonnes,1.0,Tonnes/Hectare,2007,1.0
+2012-2013,Uttar Pradesh,9,Auraiya,122,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,13516.0,Hectare,19621.0,Tonnes,1.452,Tonnes/Hectare,2012,1.4516868896123114
+2003-2004,West Bengal,19,Nadia,320,Urad,203.0,Pulses,Rabi,1848.0,Hectare,1482.0,Tonnes,0.802,Tonnes/Hectare,2003,0.801948051948052
+2020-2021,Jharkhand,20,Deoghar,324,Moong(Green Gram),204.0,Pulses,Total,1322.0,Hectare,1190.0,Tonnes,0.9,Tonnes/Hectare,2020,0.9001512859304085
+1998-1999,Jharkhand,20,Ranchi,339,Garlic,508.0,Spices,Whole Year,190.0,Hectare,352.0,Tonnes,1.853,Tonnes/Hectare,1998,1.8526315789473684
+2019-2020,Andhra Pradesh,28,Kurnool,511,Sunflower,1007.0,Oilseeds,Total,685.0,Hectare,485.0,Tonnes,0.708,Tonnes/Hectare,2019,0.708029197080292
+2015-2016,Tripura,16,South Tripura,271,Groundnut,1001.0,Oilseeds,Rabi,85.0,Hectare,100.0,Tonnes,1.176,Tonnes/Hectare,2015,1.1764705882352942
+2002-2003,Assam,18,Hailakandi,289,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,900.0,Hectare,417.0,Tonnes,0.463,Tonnes/Hectare,2002,0.4633333333333333
+2016-2017,Rajasthan,8,Jhalawar,105,Barley,107.0,Cereals,Rabi,319.0,Hectare,1052.0,Tonnes,3.298,Tonnes/Hectare,2016,3.2978056426332287
+2020-2021,Arunachal Pradesh,12,Pakke Kessang,723,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,231.0,Hectare,318.0,Tonnes,1.377,Tonnes/Hectare,2020,1.3766233766233766
+2003-2004,Kerala,32,Wayanad,567,Jack Fruit,621.0,Fruits,Whole Year,10021.0,Hectare,29.0,Tonnes,0.003,Tonnes/Hectare,2003,0.0028939227621993815
+2018-2019,Madhya Pradesh,23,Morena,417,Sugarcane,401.0,Sugar,Whole Year,11.0,Hectare,59.0,Tonnes,5.364,Tonnes/Hectare,2018,5.363636363636363
+2018-2019,Tamil Nadu,33,Chennai,568,Sesamum,1003.0,Oilseeds,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2018,0.0
+2014-2015,Chhattisgarh,22,Bemetara,650,Coriander,509.0,Spices,Whole Year,124.0,Hectare,31.0,Tonnes,0.25,Tonnes/Hectare,2014,0.25
+2014-2015,Bihar,10,Bhojpur,193,Rice,101.0,Cereals,Autumn,41.0,Hectare,71.0,Tonnes,1.732,Tonnes/Hectare,2014,1.7317073170731707
+2003-2004,Karnataka,29,Kalaburagi,538,Other Kharif Pulses,288.0,Pulses,Kharif,2227.0,Hectare,299.0,Tonnes,0.134,Tonnes/Hectare,2003,0.13426133812303548
+2004-2005,Chhattisgarh,22,Uttar Bastar Kanker,381,Moong(Green Gram),204.0,Pulses,Total,972.0,Hectare,415.0,Tonnes,0.427,Tonnes/Hectare,2004,0.4269547325102881
+2002-2003,Kerala,32,Kannur,557,Sesamum,1003.0,Oilseeds,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2002,0.0
+2011-2012,Odisha,21,Gajapati,353,Moong(Green Gram),204.0,Pulses,Winter,591.0,Hectare,147.8,Tonnes,0.25,Tonnes/Hectare,2011,0.25008460236886637
+2018-2019,Jammu And Kashmir,1,Kulgam,622,Dry Chillies,502.0,Spices,Kharif,35.0,Hectare,42.0,Tonnes,1.2,Tonnes/Hectare,2018,1.2
+2013-2014,Meghalaya,17,South West Garo Hills,663,Cashewnut,619.0,Fruits,Whole Year,1482.0,Hectare,3758.0,Tonnes,2.536,Tonnes/Hectare,2013,2.5357624831309042
+2022-2023,Maharashtra,27,Nandurbar,486,Moong(Green Gram),204.0,Pulses,Total,6567.98,Hectare,1863.63,Tonnes,0.284,Tonnes/Hectare,2022,0.28374477388786207
+2022-2023,Uttar Pradesh,9,Kasganj,633,Groundnut,1001.0,Oilseeds,Kharif,219.0,Hectare,256.0,Tonnes,1.169,Tonnes/Hectare,2022,1.1689497716894977
+2003-2004,West Bengal,19,Paschim Medinipur,318,Jute,1102.0,Fiber Crops,Kharif,5888.0,Hectare,77912.0,Tonnes,13.232,Tonnes/Hectare,2003,13.232336956521738
+2019-2020,Karnataka,29,Koppal,543,Sunflower,1007.0,Oilseeds,Total,18455.0,Hectare,12090.0,Tonnes,0.655,Tonnes/Hectare,2019,0.6551070170685451
+2013-2014,Uttar Pradesh,9,Kheri,159,Ginger,503.0,Spices,Kharif,12.0,Hectare,62.0,Tonnes,5.167,Tonnes/Hectare,2013,5.166666666666667
+2001-2002,Telangana,36,Warangal,522,Other Rabi Pulses,288.0,Pulses,Rabi,1313.0,Hectare,389.0,Tonnes,0.296,Tonnes/Hectare,2001,0.2962680883472963
+2012-2013,Karnataka,29,Yadgir,635,Urad,203.0,Pulses,Kharif,1250.0,Hectare,473.0,Tonnes,0.378,Tonnes/Hectare,2012,0.3784
+2015-2016,Gujarat,24,Surendranagar,460,Garlic,508.0,Spices,Whole Year,425.0,Hectare,2368.0,Tonnes,5.572,Tonnes/Hectare,2015,5.5717647058823525
+2021-2022,Andhra Pradesh,28,Ananthapuramu,502,Ragi,105.0,Cereals,Rabi,690.0,Hectare,1934.0,Tonnes,2.803,Tonnes/Hectare,2021,2.802898550724638
+1999-2000,Bihar,10,Rohtas,215,Sugarcane,401.0,Sugar,Whole Year,501.0,Hectare,12630.0,Tonnes,25.21,Tonnes/Hectare,1999,25.209580838323355
+2009-2010,Karnataka,29,Davanagere,535,Coconut,1006.0,Oilseeds,Whole Year,12101.0,Hectare,99410000.0,Tonnes,8215.024,Tonnes/Hectare,2009,8215.023551772581
+2001-2002,Himachal Pradesh,2,Bilaspur,15,Tobacco,1302.0,Drugs And Narcotics,Whole Year,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,2001,1.0
+2007-2008,Karnataka,29,Shivamogga,547,Sunflower,1007.0,Oilseeds,Kharif,36.0,Hectare,15.0,Tonnes,0.417,Tonnes/Hectare,2007,0.4166666666666667
+2008-2009,Odisha,21,Khordha,362,Potato,701.0,Vegetable,Winter,144.0,Hectare,1795.2,Tonnes,12.467,Tonnes/Hectare,2008,12.466666666666667
+2011-2012,Uttarakhand,5,Pithoragarh,53,Maize,104.0,Cereals,Kharif,3141.0,Hectare,3628.0,Tonnes,1.155,Tonnes/Hectare,2011,1.1550461636421523
+2002-2003,Uttarakhand,5,Tehri Garhwal,55,Other Oilseeds,1088.0,Oilseeds,Rabi,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2002,0.0
+2017-2018,Rajasthan,8,Bikaner,93,Bajra,103.0,Cereals,Kharif,124373.0,Hectare,60140.0,Tonnes,0.484,Tonnes/Hectare,2017,0.4835454640476631
+2015-2016,Telangana,36,Nizamabad,516,Maize,104.0,Cereals,Rabi,9080.0,Hectare,33151.0,Tonnes,3.651,Tonnes/Hectare,2015,3.650991189427313
+2013-2014,Madhya Pradesh,23,Katni,413,Wheat,106.0,Cereals,Rabi,98949.0,Hectare,214084.0,Tonnes,2.164,Tonnes/Hectare,2013,2.1635792175767317
+2020-2021,Madhya Pradesh,23,Ratlam,423,Cotton(Lint),1101.0,Fiber Crops,Kharif,18306.0,Hectare,14645.0,Tonnes,0.8,Tonnes/Hectare,2020,0.8000109253796569
+2022-2023,Maharashtra,27,Akola,467,Soyabean,1009.0,Oilseeds,Total,242755.4,Hectare,387690.04,Tonnes,1.597,Tonnes/Hectare,2022,1.5970398186816852
+2005-2006,Gujarat,24,Sabar Kantha,458,Groundnut,1001.0,Oilseeds,Summer,3400.0,Hectare,5600.0,Tonnes,1.647,Tonnes/Hectare,2005,1.6470588235294117
+2002-2003,Jharkhand,20,Ranchi,339,Rice,101.0,Cereals,Autumn,51998.42,Hectare,38998.81,Tonnes,0.75,Tonnes/Hectare,2002,0.7499999038432321
+2018-2019,Gujarat,24,Anand,440,Potato,701.0,Vegetable,Whole Year,1528.0,Hectare,31021.0,Tonnes,20.302,Tonnes/Hectare,2018,20.301701570680628
+2005-2006,Kerala,32,Alappuzha,554,Cashewnut,619.0,Fruits,Whole Year,3525.0,Hectare,1182.0,Tonnes,0.335,Tonnes/Hectare,2005,0.3353191489361702
+2020-2021,Tamil Nadu,33,Thanjavur,586,Groundnut,1001.0,Oilseeds,Rabi,8694.0,Hectare,39874.0,Tonnes,4.586,Tonnes/Hectare,2020,4.586381412468369
+1998-1999,Odisha,21,Angul,344,Moong(Green Gram),204.0,Pulses,Total,3678.0,Hectare,508.0,Tonnes,0.138,Tonnes/Hectare,1998,0.13811854268624252
+2009-2010,Bihar,10,Siwan,222,Tobacco,1302.0,Drugs And Narcotics,Whole Year,58.0,Hectare,108.0,Tonnes,1.862,Tonnes/Hectare,2009,1.8620689655172413
+2012-2013,Uttar Pradesh,9,Mirzapur,170,Moong(Green Gram),204.0,Pulses,Summer,3.0,Hectare,2.0,Tonnes,0.667,Tonnes/Hectare,2012,0.6666666666666666
+2013-2014,Karnataka,29,Belagavi,527,Potato,701.0,Vegetable,Summer,108.0,Hectare,1517.0,Tonnes,14.046,Tonnes/Hectare,2013,14.046296296296296
+2004-2005,Tamil Nadu,33,Ramanathapuram,583,Cotton(Lint),1101.0,Fiber Crops,Kharif,5413.0,Hectare,3802.0,Tonnes,0.702,Tonnes/Hectare,2004,0.702383151671901
+2009-2010,Gujarat,24,Narmada,452,Jowar,102.0,Cereals,Total,9100.0,Hectare,11100.0,Tonnes,1.22,Tonnes/Hectare,2009,1.2197802197802199
+2013-2014,Uttarakhand,5,Pauri Garhwal,52,Potato,701.0,Vegetable,Kharif,108.0,Hectare,938.0,Tonnes,8.685,Tonnes/Hectare,2013,8.685185185185185
+2006-2007,Bihar,10,Jehanabad,199,Sunflower,1007.0,Oilseeds,Rabi,49.0,Hectare,67.0,Tonnes,1.367,Tonnes/Hectare,2006,1.3673469387755102
+2002-2003,Rajasthan,8,Jaipur,102,Other Kharif Pulses,288.0,Pulses,Kharif,10587.0,Hectare,342.0,Tonnes,0.032,Tonnes/Hectare,2002,0.03230376877302352
+1997-1998,West Bengal,19,Murshidabad,319,Arecanut,507.0,Spices,Whole Year,56.0,Hectare,38.0,Tonnes,0.679,Tonnes/Hectare,1997,0.6785714285714286
+2015-2016,Tamil Nadu,33,Tiruppur,634,Rice,101.0,Cereals,Kharif,10645.0,Hectare,48167.0,Tonnes,4.525,Tonnes/Hectare,2015,4.524847346171912
+2008-2009,Jharkhand,20,Pakur,337,Wheat,106.0,Cereals,Rabi,1595.35,Hectare,2450.0,Tonnes,1.536,Tonnes/Hectare,2008,1.5357131663898205
+2017-2018,Uttar Pradesh,9,Mirzapur,170,Linseed,1005.0,Oilseeds,Rabi,3398.0,Hectare,2066.0,Tonnes,0.608,Tonnes/Hectare,2017,0.6080047086521483
+2011-2012,Andhra Pradesh,28,East Godavari,505,Sugarcane,401.0,Sugar,Whole Year,12618.0,Hectare,1069560.0,Tonnes,84.765,Tonnes/Hectare,2011,84.76462196861627
+2001-2002,Madhya Pradesh,23,Barwani,393,Rice,101.0,Cereals,Kharif,2596.0,Hectare,1092.0,Tonnes,0.421,Tonnes/Hectare,2001,0.4206471494607088
+2021-2022,Himachal Pradesh,2,Hamirpur,17,Turmeric,504.0,Spices,Kharif,30.0,Hectare,49.0,Tonnes,1.633,Tonnes/Hectare,2021,1.6333333333333333
+2014-2015,Uttarakhand,5,Udham Singh Nagar,56,Moong(Green Gram),204.0,Pulses,Total,17.0,Hectare,9.0,Tonnes,0.529,Tonnes/Hectare,2014,0.5294117647058824
+2002-2003,Madhya Pradesh,23,Umaria,436,Potato,701.0,Vegetable,Whole Year,256.0,Hectare,2233.0,Tonnes,8.723,Tonnes/Hectare,2002,8.72265625
+2007-2008,Rajasthan,8,Jaisalmer,103,Wheat,106.0,Cereals,Rabi,9696.0,Hectare,8987.0,Tonnes,0.927,Tonnes/Hectare,2007,0.9268770627062707
+2011-2012,Maharashtra,27,Nanded,485,Other Kharif Pulses,288.0,Pulses,Kharif,500.0,Hectare,100.0,Tonnes,0.2,Tonnes/Hectare,2011,0.2
+2005-2006,Uttar Pradesh,9,Lalitpur,161,Coriander,509.0,Spices,Whole Year,34.0,Hectare,19.0,Tonnes,0.559,Tonnes/Hectare,2005,0.5588235294117647
+2011-2012,Karnataka,29,Tumakuru,548,Groundnut,1001.0,Oilseeds,Total,88548.0,Hectare,22503.0,Tonnes,0.254,Tonnes/Hectare,2011,0.2541333514026291
+2016-2017,West Bengal,19,North 24 Parganas,303,Groundnut,1001.0,Oilseeds,Rabi,487.0,Hectare,675.0,Tonnes,1.386,Tonnes/Hectare,2016,1.3860369609856262
+2004-2005,Gujarat,24,Gandhinagar,446,Bajra,103.0,Cereals,Total,25600.0,Hectare,43200.0,Tonnes,1.688,Tonnes/Hectare,2004,1.6875
+2008-2009,Assam,18,Karbi Anglong,292,Cotton(Lint),1101.0,Fiber Crops,Kharif,793.0,Hectare,391.0,Tonnes,0.493,Tonnes/Hectare,2008,0.4930643127364439
+1997-1998,Madhya Pradesh,23,Rajgarh,422,Linseed,1005.0,Oilseeds,Rabi,1600.0,Hectare,400.0,Tonnes,0.25,Tonnes/Hectare,1997,0.25
+2003-2004,Karnataka,29,Ballari,528,Coriander,509.0,Spices,Whole Year,3503.0,Hectare,707.0,Tonnes,0.202,Tonnes/Hectare,2003,0.20182700542392235
+2018-2019,Chhattisgarh,22,Mungeli,647,Ginger,503.0,Spices,Whole Year,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2018,0.0
+2003-2004,Andhra Pradesh,28,Kurnool,511,Dry Chillies,502.0,Spices,Total,12529.0,Hectare,26973.0,Tonnes,2.153,Tonnes/Hectare,2003,2.152845398675074
+1999-2000,Gujarat,24,Rajkot,457,Arhar/Tur,202.0,Pulses,Kharif,2300.0,Hectare,1900.0,Tonnes,0.826,Tonnes/Hectare,1999,0.8260869565217391
+2007-2008,Haryana,6,Faridabad,60,Arhar/Tur,202.0,Pulses,Kharif,2264.0,Hectare,2000.0,Tonnes,0.883,Tonnes/Hectare,2007,0.8833922261484098
+2004-2005,Uttar Pradesh,9,Gorakhpur,148,Banana,606.0,Fruits,Whole Year,724.0,Hectare,26331.0,Tonnes,36.369,Tonnes/Hectare,2004,36.36878453038674
+2007-2008,Chhattisgarh,22,Bastar,374,Other Kharif Pulses,288.0,Pulses,Kharif,432.0,Hectare,53.0,Tonnes,0.123,Tonnes/Hectare,2007,0.12268518518518519
+2008-2009,Jammu And Kashmir,1,Reasi,627,Garlic,508.0,Spices,Rabi,28.0,Hectare,23.6,Tonnes,0.843,Tonnes/Hectare,2008,0.8428571428571429
+2012-2013,Uttar Pradesh,9,Gonda,147,Onion,708.0,Vegetable,Summer,570.0,Hectare,6666.0,Tonnes,11.695,Tonnes/Hectare,2012,11.694736842105263
+2011-2012,Madhya Pradesh,23,Neemuch,419,Sesamum,1003.0,Oilseeds,Whole Year,780.0,Hectare,456.0,Tonnes,0.585,Tonnes/Hectare,2011,0.5846153846153846
+1997-1998,Telangana,36,Medak,513,Arhar/Tur,202.0,Pulses,Kharif,10700.0,Hectare,100.0,Tonnes,0.009,Tonnes/Hectare,1997,0.009345794392523364
+2019-2020,Tamil Nadu,33,Dharmapuri,571,Cotton(Lint),1101.0,Fiber Crops,Kharif,8002.0,Hectare,24803.0,Tonnes,3.1,Tonnes/Hectare,2019,3.099600099975006
+2005-2006,West Bengal,19,Jalpaiguri,314,Wheat,106.0,Cereals,Rabi,18461.0,Hectare,31817.0,Tonnes,1.723,Tonnes/Hectare,2005,1.7234711012404529
+2008-2009,Odisha,21,Angul,344,Maize,104.0,Cereals,Total,910.0,Hectare,621.2,Tonnes,0.683,Tonnes/Hectare,2008,0.6826373626373626
+2017-2018,Uttar Pradesh,9,Shrawasti,181,Sweet Potato,703.0,Vegetable,Kharif,18.0,Hectare,201.0,Tonnes,11.167,Tonnes/Hectare,2017,11.166666666666666
+2013-2014,Uttarakhand,5,Almora,45,Small Millets,108.0,Cereals,Kharif,14424.0,Hectare,15518.0,Tonnes,1.076,Tonnes/Hectare,2013,1.0758458125346644
+2008-2009,Andhra Pradesh,28,Kurnool,511,Coconut,1006.0,Oilseeds,Whole Year,71.0,Hectare,646668.0,Tonnes,9108.0,Tonnes/Hectare,2008,9108.0
+1998-1999,Bihar,10,Sheikhpura,219,Barley,107.0,Cereals,Rabi,60.0,Hectare,59.0,Tonnes,0.983,Tonnes/Hectare,1998,0.9833333333333333
+2005-2006,Punjab,3,Rupnagar,42,Sugarcane,401.0,Sugar,Whole Year,6000.0,Hectare,383000.0,Tonnes,63.833,Tonnes/Hectare,2005,63.833333333333336
+2005-2006,Rajasthan,8,Ganganagar,100,Other Kharif Pulses,288.0,Pulses,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2005,0.0
+2015-2016,Andhra Pradesh,28,Srikakulam,519,Sunflower,1007.0,Oilseeds,Rabi,684.0,Hectare,737.0,Tonnes,1.077,Tonnes/Hectare,2015,1.077485380116959
+2020-2021,Uttar Pradesh,9,Chitrakoot,136,Onion,708.0,Vegetable,Total,158.0,Hectare,2386.0,Tonnes,15.101,Tonnes/Hectare,2020,15.10126582278481
+2014-2015,Andhra Pradesh,28,East Godavari,505,Tobacco,1302.0,Drugs And Narcotics,Rabi,3010.0,Hectare,13721.0,Tonnes,4.558,Tonnes/Hectare,2014,4.558471760797342
+1997-1998,Odisha,21,Ganjam,354,Sugarcane,401.0,Sugar,Winter,1384.0,Hectare,133036.0,Tonnes,96.124,Tonnes/Hectare,1997,96.1242774566474
+2018-2019,Tamil Nadu,33,Theni,588,Cowpea(Lobia),288.0,Pulses,Total,4444.0,Hectare,4127.0,Tonnes,0.929,Tonnes/Hectare,2018,0.9286678667866787
+2006-2007,Odisha,21,Balangir,345,Moong(Green Gram),204.0,Pulses,Autumn,4675.0,Hectare,930.3,Tonnes,0.199,Tonnes/Hectare,2006,0.19899465240641712
+2009-2010,Bihar,10,Purnia,214,Moong(Green Gram),204.0,Pulses,Total,5975.0,Hectare,3313.0,Tonnes,0.554,Tonnes/Hectare,2009,0.5544769874476988
+2019-2020,Odisha,21,Kandhamal,359,Jowar,102.0,Cereals,Kharif,110.0,Hectare,60.0,Tonnes,0.545,Tonnes/Hectare,2019,0.5454545454545454
+2019-2020,Uttar Pradesh,9,Lucknow,162,Masoor,205.0,Pulses,Rabi,1457.0,Hectare,1010.0,Tonnes,0.693,Tonnes/Hectare,2019,0.6932052161976664
+1997-1998,Karnataka,29,Mysuru,545,Groundnut,1001.0,Oilseeds,Total,37622.0,Hectare,38858.0,Tonnes,1.033,Tonnes/Hectare,1997,1.0328531178565732
+2010-2011,Rajasthan,8,Bundi,94,Masoor,205.0,Pulses,Rabi,19485.0,Hectare,17045.0,Tonnes,0.875,Tonnes/Hectare,2010,0.8747754683089556
+2015-2016,Andhra Pradesh,28,Y.S.R. Kadapa,504,Soyabean,1009.0,Oilseeds,Kharif,2.0,Hectare,3.0,Tonnes,1.5,Tonnes/Hectare,2015,1.5
+2010-2011,Odisha,21,Ganjam,354,Moong(Green Gram),204.0,Pulses,Autumn,6.0,Hectare,0.9,Tonnes,0.15,Tonnes/Hectare,2010,0.15
+2008-2009,Uttar Pradesh,9,Kheri,159,Sweet Potato,703.0,Vegetable,Kharif,56.0,Hectare,688.0,Tonnes,12.286,Tonnes/Hectare,2008,12.285714285714286
+2000-2001,Maharashtra,27,Amravati,468,Arhar/Tur,202.0,Pulses,Kharif,99600.0,Hectare,67300.0,Tonnes,0.676,Tonnes/Hectare,2000,0.6757028112449799
+2017-2018,Odisha,21,Nabarangpur,366,Urad,203.0,Pulses,Total,4306.0,Hectare,2287.2,Tonnes,0.531,Tonnes/Hectare,2017,0.5311658151416627
+2007-2008,Madhya Pradesh,23,Damoh,400,Linseed,1005.0,Oilseeds,Rabi,2932.0,Hectare,1282.0,Tonnes,0.437,Tonnes/Hectare,2007,0.43724420190995905
+2017-2018,Himachal Pradesh,2,Kangra,18,Gram,201.0,Pulses,Rabi,98.0,Hectare,106.0,Tonnes,1.082,Tonnes/Hectare,2017,1.0816326530612246
+2004-2005,West Bengal,19,Malda,316,Groundnut,1001.0,Oilseeds,Whole Year,183.0,Hectare,146.0,Tonnes,0.798,Tonnes/Hectare,2004,0.7978142076502732
+2022-2023,Chhattisgarh,22,Bilaspur,375,Soyabean,1009.0,Oilseeds,Kharif,6.0,Hectare,7.0,Tonnes,1.167,Tonnes/Hectare,2022,1.1666666666666667
+2001-2002,Uttar Pradesh,9,Azamgarh,123,Gram,201.0,Pulses,Rabi,5358.0,Hectare,4985.0,Tonnes,0.93,Tonnes/Hectare,2001,0.9303844718178425
+2003-2004,Haryana,6,Jhajjar,64,Onion,708.0,Vegetable,Whole Year,134.0,Hectare,2600.0,Tonnes,19.403,Tonnes/Hectare,2003,19.402985074626866
+2000-2001,Arunachal Pradesh,12,Dibang Valley,230,Potato,701.0,Vegetable,Whole Year,850.0,Hectare,3347.0,Tonnes,3.938,Tonnes/Hectare,2000,3.9376470588235293
+2011-2012,Uttar Pradesh,9,Etawah,139,Coriander,509.0,Spices,Rabi,48.0,Hectare,27.0,Tonnes,0.562,Tonnes/Hectare,2011,0.5625
+2003-2004,Assam,18,Hailakandi,289,Sesamum,1003.0,Oilseeds,Kharif,60.0,Hectare,24.0,Tonnes,0.4,Tonnes/Hectare,2003,0.4
+2012-2013,Assam,18,Dhubri,285,Gram,201.0,Pulses,Rabi,165.0,Hectare,117.0,Tonnes,0.709,Tonnes/Hectare,2012,0.7090909090909091
+2016-2017,Telangana,36,Mancherial,684,Groundnut,1001.0,Oilseeds,Rabi,239.0,Hectare,494.0,Tonnes,2.067,Tonnes/Hectare,2016,2.066945606694561
+2022-2023,Odisha,21,Kendrapara,360,Horse-Gram,206.0,Pulses,Winter,316.0,Hectare,120.1,Tonnes,0.38,Tonnes/Hectare,2022,0.3800632911392405
+2005-2006,Tamil Nadu,33,Madurai,578,Tapioca,702.0,Vegetable,Whole Year,52.0,Hectare,1987.0,Tonnes,38.212,Tonnes/Hectare,2005,38.21153846153846
+2018-2019,Karnataka,29,Chikkaballapura,630,Tobacco,1302.0,Drugs And Narcotics,Whole Year,2.0,Hectare,2.0,Tonnes,1.0,Tonnes/Hectare,2018,1.0
+2005-2006,Rajasthan,8,Rajsamand,112,Barley,107.0,Cereals,Rabi,4589.0,Hectare,11947.0,Tonnes,2.603,Tonnes/Hectare,2005,2.603399433427762
+2017-2018,Madhya Pradesh,23,Neemuch,419,Coriander,509.0,Spices,Whole Year,24500.0,Hectare,24500.0,Tonnes,1.0,Tonnes/Hectare,2017,1.0
+2014-2015,Rajasthan,8,Hanumangarh,101,Sesamum,1003.0,Oilseeds,Kharif,827.0,Hectare,281.0,Tonnes,0.34,Tonnes/Hectare,2014,0.33978234582829503
+1999-2000,Meghalaya,17,East Jaintia Hills,657,Rice,101.0,Cereals,Rabi,52.0,Hectare,59.0,Tonnes,1.135,Tonnes/Hectare,1999,1.1346153846153846
+2014-2015,Punjab,3,Mansa,37,Barley,107.0,Cereals,Rabi,1000.0,Hectare,3100.0,Tonnes,3.1,Tonnes/Hectare,2014,3.1
+1999-2000,Tamil Nadu,33,Namakkal,580,Black Pepper,501.0,Spices,Whole Year,208.0,Hectare,38.0,Tonnes,0.183,Tonnes/Hectare,1999,0.18269230769230768
+2002-2003,Assam,18,Golaghat,288,Gram,201.0,Pulses,Rabi,19.0,Hectare,9.0,Tonnes,0.474,Tonnes/Hectare,2002,0.47368421052631576
+2019-2020,Haryana,6,Fatehabad,61,Sugarcane,401.0,Sugar,Whole Year,1100.0,Hectare,96100.0,Tonnes,87.364,Tonnes/Hectare,2019,87.36363636363636
+2002-2003,Chhattisgarh,22,Surguja,389,Sunflower,1007.0,Oilseeds,Kharif,63.0,Hectare,17.0,Tonnes,0.27,Tonnes/Hectare,2002,0.2698412698412698
+2015-2016,Karnataka,29,Dakshina Kannada,534,Urad,203.0,Pulses,Rabi,1270.0,Hectare,392.0,Tonnes,0.309,Tonnes/Hectare,2015,0.30866141732283464
+2011-2012,Karnataka,29,Vijayapura,530,Turmeric,504.0,Spices,Whole Year,66.0,Hectare,137.0,Tonnes,2.076,Tonnes/Hectare,2011,2.0757575757575757
+2003-2004,Uttar Pradesh,9,Ballia,126,Urad,203.0,Pulses,Summer,11.0,Hectare,5.0,Tonnes,0.455,Tonnes/Hectare,2003,0.45454545454545453
+2017-2018,Tamil Nadu,33,The Nilgiris,587,Groundnut,1001.0,Oilseeds,Rabi,2.0,Hectare,8.0,Tonnes,4.0,Tonnes/Hectare,2017,4.0
+2008-2009,Maharashtra,27,Buldhana,472,Gram,201.0,Pulses,Rabi,63500.0,Hectare,47900.0,Tonnes,0.754,Tonnes/Hectare,2008,0.7543307086614173
+2017-2018,Nagaland,13,Peren,613,Barley,107.0,Cereals,Rabi,60.0,Hectare,60.0,Tonnes,1.0,Tonnes/Hectare,2017,1.0
+2003-2004,Tamil Nadu,33,Tirunelveli,592,Sugarcane,401.0,Sugar,Whole Year,2707.0,Hectare,275244.0,Tonnes,101.679,Tonnes/Hectare,2003,101.67861100849649
+2016-2017,Andhra Pradesh,28,Visakhapatnam,520,Sweet Potato,703.0,Vegetable,Kharif,64.0,Hectare,983.0,Tonnes,15.359,Tonnes/Hectare,2016,15.359375
+2000-2001,Kerala,32,Malappuram,562,Tapioca,702.0,Vegetable,Whole Year,7508.0,Hectare,185143.0,Tonnes,24.659,Tonnes/Hectare,2000,24.659429941395846
+2007-2008,Uttar Pradesh,9,Mainpuri,166,Urad,203.0,Pulses,Summer,1858.0,Hectare,1258.0,Tonnes,0.677,Tonnes/Hectare,2007,0.6770721205597416
+2006-2007,Uttar Pradesh,9,Amroha,154,Sugarcane,401.0,Sugar,Kharif,73271.0,Hectare,4632779.0,Tonnes,63.228,Tonnes/Hectare,2006,63.228002893368455
+1997-1998,West Bengal,19,North 24 Parganas,303,Arhar/Tur,202.0,Pulses,Whole Year,45.0,Hectare,40.0,Tonnes,0.889,Tonnes/Hectare,1997,0.8888888888888888
+2004-2005,West Bengal,19,Birbhum,307,Dry Chillies,502.0,Spices,Whole Year,666.0,Hectare,425.0,Tonnes,0.638,Tonnes/Hectare,2004,0.6381381381381381
+2021-2022,Madhya Pradesh,23,Alirajpur,639,Soyabean,1009.0,Oilseeds,Kharif,43511.0,Hectare,27412.0,Tonnes,0.63,Tonnes/Hectare,2021,0.6300016087885822
+2016-2017,Rajasthan,8,Alwar,87,Potato,701.0,Vegetable,Whole Year,75.0,Hectare,538.0,Tonnes,7.173,Tonnes/Hectare,2016,7.173333333333333
+2018-2019,Chhattisgarh,22,Surajpur,648,Ginger,503.0,Spices,Whole Year,417.0,Hectare,464.0,Tonnes,1.113,Tonnes/Hectare,2018,1.1127098321342925
+2010-2011,Karnataka,29,Chitradurga,533,Sesamum,1003.0,Oilseeds,Kharif,4552.0,Hectare,3243.0,Tonnes,0.712,Tonnes/Hectare,2010,0.7124340949033392
+2020-2021,Haryana,6,Sonipat,75,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,2650.0,Hectare,5560.0,Tonnes,2.098,Tonnes/Hectare,2020,2.09811320754717
+2006-2007,Chhattisgarh,22,Surguja,389,Peas & Beans (Pulses),213.0,Pulses,Rabi,3217.0,Hectare,1372.0,Tonnes,0.426,Tonnes/Hectare,2006,0.42648430214485544
+2010-2011,Assam,18,Bongaigaon,281,Urad,203.0,Pulses,Rabi,2107.0,Hectare,1133.0,Tonnes,0.538,Tonnes/Hectare,2010,0.5377313716184148
+2018-2019,Maharashtra,27,Chhatrapati Sambhajinagar,469,Other Rabi Pulses,288.0,Pulses,Rabi,10.0,Hectare,1.0,Tonnes,0.1,Tonnes/Hectare,2018,0.1
+1998-1999,Meghalaya,17,East Jaintia Hills,657,Sesamum,1003.0,Oilseeds,Kharif,34.0,Hectare,16.0,Tonnes,0.471,Tonnes/Hectare,1998,0.47058823529411764
+2016-2017,Karnataka,29,Uttara Kannada,550,Moong(Green Gram),204.0,Pulses,Summer,76.0,Hectare,18.0,Tonnes,0.237,Tonnes/Hectare,2016,0.23684210526315788
+2011-2012,Uttar Pradesh,9,Pratapgarh,174,Maize,104.0,Cereals,Total,870.0,Hectare,882.0,Tonnes,1.014,Tonnes/Hectare,2011,1.013793103448276
+2000-2001,Gujarat,24,Amreli,439,Dry Chillies,502.0,Spices,Whole Year,200.0,Hectare,100.0,Tonnes,0.5,Tonnes/Hectare,2000,0.5
+2003-2004,Odisha,21,Cuttack,350,Garlic,508.0,Spices,Whole Year,960.0,Hectare,3050.0,Tonnes,3.177,Tonnes/Hectare,2003,3.1770833333333335
+2019-2020,Tripura,16,South Tripura,271,Small Millets,108.0,Cereals,Kharif,44.0,Hectare,34.7,Tonnes,0.789,Tonnes/Hectare,2019,0.7886363636363637
+2020-2021,Bihar,10,Sheikhpura,219,Maize,104.0,Cereals,Total,727.0,Hectare,2236.0,Tonnes,3.076,Tonnes/Hectare,2020,3.075653370013755
+2005-2006,Haryana,6,Faridabad,60,Sesamum,1003.0,Oilseeds,Kharif,309.0,Hectare,100.0,Tonnes,0.324,Tonnes/Hectare,2005,0.32362459546925565
+1998-1999,Kerala,32,Palakkad,563,Dry Chillies,502.0,Spices,Whole Year,100.0,Hectare,107.0,Tonnes,1.07,Tonnes/Hectare,1998,1.07
+2017-2018,Jharkhand,20,Dhanbad,325,Gram,201.0,Pulses,Rabi,4817.0,Hectare,7221.0,Tonnes,1.499,Tonnes/Hectare,2017,1.499065808594561
+2014-2015,Madhya Pradesh,23,Alirajpur,639,Gram,201.0,Pulses,Rabi,10000.0,Hectare,10000.0,Tonnes,1.0,Tonnes/Hectare,2014,1.0
+2022-2023,Uttar Pradesh,9,Deoria,137,Urad,203.0,Pulses,Summer,2.0,Hectare,2.0,Tonnes,1.0,Tonnes/Hectare,2022,1.0
+2002-2003,West Bengal,19,South 24 Parganas,304,Ginger,503.0,Spices,Kharif,260.0,Hectare,182.0,Tonnes,0.7,Tonnes/Hectare,2002,0.7
+2019-2020,Tamil Nadu,33,Pudukkottai,582,Black Pepper,501.0,Spices,Whole Year,7.0,Hectare,2.0,Tonnes,0.286,Tonnes/Hectare,2019,0.2857142857142857
+2004-2005,Bihar,10,Samastipur,217,Sannhamp,1104.0,Fiber Crops,Whole Year,16.0,Hectare,13.0,Tonnes,0.812,Tonnes/Hectare,2004,0.8125
+2001-2002,Gujarat,24,Mahesana,451,Sesamum,1003.0,Oilseeds,Kharif,14300.0,Hectare,4400.0,Tonnes,0.308,Tonnes/Hectare,2001,0.3076923076923077
+2004-2005,Maharashtra,27,Amravati,468,Sunflower,1007.0,Oilseeds,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,2004,0.3333333333333333
+2012-2013,Uttar Pradesh,9,Kanpur Nagar,157,Rice,101.0,Cereals,Kharif,31891.0,Hectare,74689.0,Tonnes,2.342,Tonnes/Hectare,2012,2.3420087171929382
+2009-2010,Haryana,6,Sonipat,75,Sweet Potato,703.0,Vegetable,Whole Year,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2009,0.0
+1999-2000,Andhra Pradesh,28,Y.S.R. Kadapa,504,Jowar,102.0,Cereals,Kharif,7866.0,Hectare,6293.0,Tonnes,0.8,Tonnes/Hectare,1999,0.8000254258835494
+2014-2015,Uttar Pradesh,9,Rae Bareli,175,Tobacco,1302.0,Drugs And Narcotics,Total,4.0,Hectare,16.0,Tonnes,4.0,Tonnes/Hectare,2014,4.0
+2022-2023,Odisha,21,Sambalpur,371,Groundnut,1001.0,Oilseeds,Winter,3.0,Hectare,2.4,Tonnes,0.8,Tonnes/Hectare,2022,0.7999999999999999
+2021-2022,Bihar,10,Sheohar,220,Rice,101.0,Cereals,Total,21352.0,Hectare,36517.0,Tonnes,1.71,Tonnes/Hectare,2021,1.7102379168227801
+1999-2000,Madhya Pradesh,23,Morena,417,Sesamum,1003.0,Oilseeds,Kharif,2035.0,Hectare,605.0,Tonnes,0.297,Tonnes/Hectare,1999,0.2972972972972973
+2014-2015,Jharkhand,20,Sahebganj,340,Peas & Beans (Pulses),213.0,Pulses,Rabi,17.0,Hectare,29.0,Tonnes,1.706,Tonnes/Hectare,2014,1.7058823529411764
+2002-2003,Uttar Pradesh,9,Kaushambi,158,Bajra,103.0,Cereals,Kharif,12105.0,Hectare,12748.0,Tonnes,1.053,Tonnes/Hectare,2002,1.053118546055349
+2020-2021,Assam,18,Kamrup Metro,618,Urad,203.0,Pulses,Rabi,234.0,Hectare,152.0,Tonnes,0.65,Tonnes/Hectare,2020,0.6495726495726496
+2015-2016,Uttar Pradesh,9,Sultanpur,185,Maize,104.0,Cereals,Kharif,4239.0,Hectare,2098.0,Tonnes,0.495,Tonnes/Hectare,2015,0.49492804906817645
+1997-1998,Telangana,36,Khammam,509,Dry Chillies,502.0,Spices,Total,17400.0,Hectare,43300.0,Tonnes,2.489,Tonnes/Hectare,1997,2.4885057471264367
+1997-1998,Uttar Pradesh,9,Bara Banki,129,Peas & Beans (Pulses),213.0,Pulses,Rabi,2772.0,Hectare,3233.0,Tonnes,1.166,Tonnes/Hectare,1997,1.1663059163059164
+2003-2004,Bihar,10,Banka,190,Maize,104.0,Cereals,Summer,3281.0,Hectare,8938.0,Tonnes,2.724,Tonnes/Hectare,2003,2.724169460530326
+2017-2018,Bihar,10,Madhubani,206,Gram,201.0,Pulses,Rabi,11.0,Hectare,13.0,Tonnes,1.182,Tonnes/Hectare,2017,1.1818181818181819
+2007-2008,Karnataka,29,Ballari,528,Cotton(Lint),1101.0,Fiber Crops,Whole Year,26604.0,Hectare,48546.0,Tonnes,1.825,Tonnes/Hectare,2007,1.8247631935047361
+2022-2023,Tamil Nadu,33,Tiruppur,634,Banana,606.0,Fruits,Whole Year,3093.0,Hectare,126318.0,Tonnes,40.84,Tonnes/Hectare,2022,40.83996120271581
+2007-2008,Manipur,14,Chandel,253,Sugarcane,401.0,Sugar,Whole Year,90.0,Hectare,2940.0,Tonnes,32.667,Tonnes/Hectare,2007,32.666666666666664
+2015-2016,Madhya Pradesh,23,Chhindwara,399,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,3000.0,Hectare,3000.0,Tonnes,1.0,Tonnes/Hectare,2015,1.0
+2012-2013,Uttar Pradesh,9,Hathras,163,Maize,104.0,Cereals,Total,3186.0,Hectare,6803.0,Tonnes,2.135,Tonnes/Hectare,2012,2.135279347143754
+1997-1998,Uttar Pradesh,9,Kushinagar,160,Moong(Green Gram),204.0,Pulses,Kharif,17.0,Hectare,5.0,Tonnes,0.294,Tonnes/Hectare,1997,0.29411764705882354
+2004-2005,West Bengal,19,Purulia,321,Rice,101.0,Cereals,Summer,1354.0,Hectare,2836.0,Tonnes,2.095,Tonnes/Hectare,2004,2.0945347119645494
+2018-2019,Uttar Pradesh,9,Jaunpur,152,Sugarcane,401.0,Sugar,Kharif,8201.0,Hectare,569477.0,Tonnes,69.44,Tonnes/Hectare,2018,69.43994634800634
+2014-2015,Tamil Nadu,33,Dindigul,572,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2014,0.0
+2015-2016,Karnataka,29,Vijayapura,530,Sesamum,1003.0,Oilseeds,Kharif,107.0,Hectare,52.0,Tonnes,0.486,Tonnes/Hectare,2015,0.48598130841121495
+2015-2016,Punjab,3,Jalandhar,34,Sugarcane,401.0,Sugar,Whole Year,11000.0,Hectare,656000.0,Tonnes,59.636,Tonnes/Hectare,2015,59.63636363636363
+2009-2010,Tamil Nadu,33,Tirunelveli,592,Bajra,103.0,Cereals,Whole Year,404.0,Hectare,938.0,Tonnes,2.322,Tonnes/Hectare,2009,2.3217821782178216
+2015-2016,Gujarat,24,Kheda,450,Soyabean,1009.0,Oilseeds,Kharif,234.0,Hectare,182.0,Tonnes,0.778,Tonnes/Hectare,2015,0.7777777777777778
+2001-2002,Assam,18,Kokrajhar,294,Niger Seed,1010.0,Oilseeds,Kharif,595.0,Hectare,298.0,Tonnes,0.501,Tonnes/Hectare,2001,0.5008403361344538
+2016-2017,Assam,18,Kamrup,291,Wheat,106.0,Cereals,Rabi,831.0,Hectare,1063.0,Tonnes,1.279,Tonnes/Hectare,2016,1.279181708784597
+2006-2007,Madhya Pradesh,23,Shivpuri,432,Soyabean,1009.0,Oilseeds,Kharif,103710.0,Hectare,76528.0,Tonnes,0.738,Tonnes/Hectare,2006,0.7379037701282423
+2009-2010,Rajasthan,8,Banswara,88,Wheat,106.0,Cereals,Rabi,80466.0,Hectare,161762.0,Tonnes,2.01,Tonnes/Hectare,2009,2.010314915616534
+2020-2021,Tamil Nadu,33,Salem,584,Arhar/Tur,202.0,Pulses,Total,1417.0,Hectare,2055.0,Tonnes,1.45,Tonnes/Hectare,2020,1.4502470007057162
+2021-2022,Rajasthan,8,Jhunjhunu,106,Coriander,509.0,Spices,Whole Year,13.0,Hectare,19.0,Tonnes,1.462,Tonnes/Hectare,2021,1.4615384615384615
+2008-2009,Maharashtra,27,Washim,499,Moong(Green Gram),204.0,Pulses,Kharif,33000.0,Hectare,4900.0,Tonnes,0.148,Tonnes/Hectare,2008,0.1484848484848485
+2006-2007,Karnataka,29,Chitradurga,533,Rice,101.0,Cereals,Kharif,4334.0,Hectare,10215.0,Tonnes,2.357,Tonnes/Hectare,2006,2.3569450853714815
+2019-2020,Nagaland,13,Peren,613,Sesamum,1003.0,Oilseeds,Kharif,445.0,Hectare,274.0,Tonnes,0.616,Tonnes/Hectare,2019,0.6157303370786517
+2022-2023,Chhattisgarh,22,Kabeerdham,382,Urad,203.0,Pulses,Kharif,688.0,Hectare,269.0,Tonnes,0.391,Tonnes/Hectare,2022,0.39098837209302323
+1998-1999,Uttar Pradesh,9,Kannauj,155,Moth,209.0,Pulses,Kharif,4.0,Hectare,1.0,Tonnes,0.25,Tonnes/Hectare,1998,0.25
+2002-2003,Tamil Nadu,33,Cuddalore,570,Ash Gourd,726.0,Vegetable,Whole Year,4.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2002,0.0
+2019-2020,Punjab,3,Ludhiana,36,Moong(Green Gram),204.0,Pulses,Kharif,100.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2019,0.0
+2006-2007,Bihar,10,Begusarai,191,Moong(Green Gram),204.0,Pulses,Total,676.0,Hectare,369.0,Tonnes,0.546,Tonnes/Hectare,2006,0.5458579881656804
+2016-2017,Tamil Nadu,33,Coimbatore,569,Cardamom,506.0,Spices,Whole Year,808.0,Hectare,63.0,Tonnes,0.078,Tonnes/Hectare,2016,0.07797029702970297
+2021-2022,Telangana,36,Adilabad,501,Cowpea(Lobia),288.0,Pulses,Rabi,18.0,Hectare,12.0,Tonnes,0.667,Tonnes/Hectare,2021,0.6666666666666666
+2015-2016,Chhattisgarh,22,Bijapur,636,Coriander,509.0,Spices,Whole Year,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2015,0.0
+2022-2023,Karnataka,29,Dharwad,536,Dry Ginger,588.0,Spices,Whole Year,4.0,Hectare,7.5,Tonnes,1.875,Tonnes/Hectare,2022,1.875
+2020-2021,Karnataka,29,Chitradurga,533,Black Pepper,501.0,Spices,Whole Year,56.0,Hectare,26.4,Tonnes,0.471,Tonnes/Hectare,2020,0.4714285714285714
+2009-2010,Uttar Pradesh,9,Jaunpur,152,Guar Seed,727.0,Vegetable,Kharif,18.0,Hectare,15.0,Tonnes,0.833,Tonnes/Hectare,2009,0.8333333333333334
+2016-2017,Telangana,36,Nalgonda,514,Urad,203.0,Pulses,Rabi,389.0,Hectare,318.0,Tonnes,0.817,Tonnes/Hectare,2016,0.8174807197943444
+2020-2021,Uttar Pradesh,9,Etawah,139,Moong(Green Gram),204.0,Pulses,Kharif,73.0,Hectare,29.0,Tonnes,0.397,Tonnes/Hectare,2020,0.3972602739726027
+2007-2008,Bihar,10,Pashchim Champaran,211,Onion,708.0,Vegetable,Whole Year,1214.0,Hectare,9591.0,Tonnes,7.9,Tonnes/Hectare,2007,7.900329489291598
+2004-2005,Telangana,36,Medak,513,Dry Chillies,502.0,Spices,Total,5653.0,Hectare,9681.0,Tonnes,1.713,Tonnes/Hectare,2004,1.7125420130903946
+1999-2000,Uttar Pradesh,9,Deoria,137,Urad,203.0,Pulses,Kharif,36.0,Hectare,15.0,Tonnes,0.417,Tonnes/Hectare,1999,0.4166666666666667
+2012-2013,Chhattisgarh,22,Raigarh,386,Wheat,106.0,Cereals,Rabi,2365.0,Hectare,4327.0,Tonnes,1.83,Tonnes/Hectare,2012,1.829598308668076
+2016-2017,Uttar Pradesh,9,Balrampur,127,Jowar,102.0,Cereals,Kharif,4.0,Hectare,4.0,Tonnes,1.0,Tonnes/Hectare,2016,1.0
+2011-2012,Bihar,10,Khagaria,202,Arhar/Tur,202.0,Pulses,Kharif,166.0,Hectare,326.0,Tonnes,1.964,Tonnes/Hectare,2011,1.963855421686747
+2018-2019,Andhra Pradesh,28,Visakhapatnam,520,Other Kharif Pulses,288.0,Pulses,Kharif,635.0,Hectare,208.0,Tonnes,0.328,Tonnes/Hectare,2018,0.32755905511811023
+2014-2015,Karnataka,29,Mysuru,545,Dry Chillies,502.0,Spices,Summer,270.0,Hectare,520.0,Tonnes,1.926,Tonnes/Hectare,2014,1.9259259259259258
+2018-2019,Gujarat,24,Mahisagar,669,Cotton(Lint),1101.0,Fiber Crops,Kharif,7626.0,Hectare,15945.0,Tonnes,2.091,Tonnes/Hectare,2018,2.0908733280881195
+2010-2011,Karnataka,29,Chamarajanagar,531,Turmeric,504.0,Spices,Whole Year,7071.0,Hectare,34506.0,Tonnes,4.88,Tonnes/Hectare,2010,4.879932117098006
+2022-2023,Arunachal Pradesh,12,Upper Siang,240,Peas & Beans (Pulses),213.0,Pulses,Total,119.0,Hectare,193.0,Tonnes,1.622,Tonnes/Hectare,2022,1.6218487394957983
+2020-2021,Bihar,10,Sitamarhi,221,Masoor,205.0,Pulses,Rabi,2386.0,Hectare,1801.0,Tonnes,0.755,Tonnes/Hectare,2020,0.7548197820620285
+2014-2015,Uttar Pradesh,9,Mahrajganj,164,Linseed,1005.0,Oilseeds,Rabi,171.0,Hectare,99.0,Tonnes,0.579,Tonnes/Hectare,2014,0.5789473684210527
+2020-2021,Gujarat,24,Rajkot,457,Garlic,508.0,Spices,Whole Year,4449.0,Hectare,35992.0,Tonnes,8.09,Tonnes/Hectare,2020,8.089907844459429
+1998-1999,Maharashtra,27,Nashik,487,Sesamum,1003.0,Oilseeds,Rabi,100.0,Hectare,100.0,Tonnes,1.0,Tonnes/Hectare,1998,1.0
+2021-2022,Uttar Pradesh,9,Pratapgarh,174,Moong(Green Gram),204.0,Pulses,Total,1328.0,Hectare,1169.0,Tonnes,0.88,Tonnes/Hectare,2021,0.8802710843373494
+2009-2010,Bihar,10,Bhagalpur,192,Maize,104.0,Cereals,Autumn,20456.0,Hectare,29309.0,Tonnes,1.433,Tonnes/Hectare,2009,1.4327825576847868
+2014-2015,Bihar,10,Munger,207,Barley,107.0,Cereals,Rabi,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,2014,1.0
+2009-2010,Uttar Pradesh,9,Fatehpur,142,Jowar,102.0,Cereals,Kharif,8000.0,Hectare,11601.0,Tonnes,1.45,Tonnes/Hectare,2009,1.450125
+2015-2016,West Bengal,19,Hooghly,312,Maize,104.0,Cereals,Summer,238.0,Hectare,481.0,Tonnes,2.021,Tonnes/Hectare,2015,2.0210084033613445
+2014-2015,Andhra Pradesh,28,Visakhapatnam,520,Urad,203.0,Pulses,Rabi,6257.0,Hectare,3322.0,Tonnes,0.531,Tonnes/Hectare,2014,0.5309253635927761
+2022-2023,Himachal Pradesh,2,Kangra,18,Barley,107.0,Cereals,Rabi,1748.0,Hectare,2970.0,Tonnes,1.699,Tonnes/Hectare,2022,1.6990846681922196
+2015-2016,Odisha,21,Khordha,362,Moong(Green Gram),204.0,Pulses,Winter,1144.0,Hectare,298.6,Tonnes,0.261,Tonnes/Hectare,2015,0.261013986013986
+2016-2017,Madhya Pradesh,23,Sheopur,431,Gram,201.0,Pulses,Rabi,20000.0,Hectare,36000.0,Tonnes,1.8,Tonnes/Hectare,2016,1.8
+1999-2000,West Bengal,19,Malda,316,Sugarcane,401.0,Sugar,Whole Year,6115.0,Hectare,474091.0,Tonnes,77.529,Tonnes/Hectare,1999,77.52919051512674
+2005-2006,Bihar,10,Arwal,611,Sugarcane,401.0,Sugar,Whole Year,65.0,Hectare,1710.0,Tonnes,26.308,Tonnes/Hectare,2005,26.307692307692307
+2021-2022,Haryana,6,Hisar,63,Maize,104.0,Cereals,Kharif,23.0,Hectare,90.0,Tonnes,3.913,Tonnes/Hectare,2021,3.9130434782608696
+2005-2006,Kerala,32,Kannur,557,Tapioca,702.0,Vegetable,Whole Year,2442.0,Hectare,63880.0,Tonnes,26.159,Tonnes/Hectare,2005,26.15888615888616
+2021-2022,Uttar Pradesh,9,Kannauj,155,Dry Chillies,502.0,Spices,Kharif,106.0,Hectare,94.0,Tonnes,0.887,Tonnes/Hectare,2021,0.8867924528301887
+2000-2001,Odisha,21,Sambalpur,371,Wheat,106.0,Cereals,Rabi,450.0,Hectare,692.1,Tonnes,1.538,Tonnes/Hectare,2000,1.538
+2008-2009,Haryana,6,Rewari,72,Peas & Beans (Pulses),213.0,Pulses,Rabi,224.0,Hectare,100.0,Tonnes,0.446,Tonnes/Hectare,2008,0.44642857142857145
+2010-2011,Assam,18,Chirang,612,Castor Seed,1002.0,Oilseeds,Kharif,6.0,Hectare,2.0,Tonnes,0.333,Tonnes/Hectare,2010,0.3333333333333333
+2016-2017,Tamil Nadu,33,Cuddalore,570,Dry Chillies,502.0,Spices,Whole Year,437.0,Hectare,201.0,Tonnes,0.46,Tonnes/Hectare,2016,0.459954233409611
+2001-2002,Uttar Pradesh,9,Gorakhpur,148,Potato,701.0,Vegetable,Whole Year,4038.0,Hectare,55381.0,Tonnes,13.715,Tonnes/Hectare,2001,13.71495789995047
+2022-2023,Odisha,21,Cuttack,350,Sugarcane,401.0,Sugar,Winter,489.0,Hectare,31734.6,Tonnes,64.897,Tonnes/Hectare,2022,64.89693251533743
+2017-2018,Bihar,10,Bhagalpur,192,Maize,104.0,Cereals,Total,38907.0,Hectare,179464.0,Tonnes,4.613,Tonnes/Hectare,2017,4.6126403988999405
+2007-2008,Gujarat,24,Surat,459,Jowar,102.0,Cereals,Kharif,34300.0,Hectare,47900.0,Tonnes,1.397,Tonnes/Hectare,2007,1.3965014577259476
+2021-2022,Karnataka,29,Haveri,540,Onion,708.0,Vegetable,Rabi,226.0,Hectare,1204.0,Tonnes,5.327,Tonnes/Hectare,2021,5.327433628318584
+2015-2016,Uttar Pradesh,9,Farrukhabad,141,Maize,104.0,Cereals,Kharif,32828.0,Hectare,68840.0,Tonnes,2.097,Tonnes/Hectare,2015,2.096990374070915
+2005-2006,Madhya Pradesh,23,Balaghat,392,Gram,201.0,Pulses,Rabi,7462.0,Hectare,5906.0,Tonnes,0.791,Tonnes/Hectare,2005,0.7914768158670598
+2009-2010,Odisha,21,Bargarh,347,Wheat,106.0,Cereals,Summer,214.0,Hectare,314.6,Tonnes,1.47,Tonnes/Hectare,2009,1.4700934579439253
+2018-2019,Tamil Nadu,33,Coimbatore,569,Urad,203.0,Pulses,Kharif,98.0,Hectare,74.0,Tonnes,0.755,Tonnes/Hectare,2018,0.7551020408163265
+2019-2020,Himachal Pradesh,2,Sirmaur,24,Sugarcane,401.0,Sugar,Whole Year,865.0,Hectare,24315.0,Tonnes,28.11,Tonnes/Hectare,2019,28.109826589595375
+2014-2015,Meghalaya,17,Ri Bhoi,276,Small Millets,108.0,Cereals,Rabi,27.0,Hectare,31.0,Tonnes,1.148,Tonnes/Hectare,2014,1.1481481481481481
+2014-2015,Uttar Pradesh,9,Firozabad,143,Sunflower,1007.0,Oilseeds,Summer,314.0,Hectare,537.0,Tonnes,1.71,Tonnes/Hectare,2014,1.7101910828025477
+2018-2019,Uttar Pradesh,9,Kasganj,633,Onion,708.0,Vegetable,Rabi,155.0,Hectare,2399.0,Tonnes,15.477,Tonnes/Hectare,2018,15.477419354838709
+1997-1998,Bihar,10,Sheohar,220,Maize,104.0,Cereals,Total,2019.0,Hectare,4712.0,Tonnes,2.334,Tonnes/Hectare,1997,2.33382862803368
+2010-2011,Telangana,36,Mahabubnagar,512,Dry Chillies,502.0,Spices,Total,7254.0,Hectare,30109.0,Tonnes,4.151,Tonnes/Hectare,2010,4.150675489385167
+2002-2003,Maharashtra,27,Dharashiv,488,Gram,201.0,Pulses,Rabi,58400.0,Hectare,22200.0,Tonnes,0.38,Tonnes/Hectare,2002,0.3801369863013699
+2017-2018,Uttar Pradesh,9,Hathras,163,Groundnut,1001.0,Oilseeds,Kharif,2.0,Hectare,2.0,Tonnes,1.0,Tonnes/Hectare,2017,1.0
+1997-1998,Andhra Pradesh,28,Ananthapuramu,502,Sunflower,1007.0,Oilseeds,Total,66000.0,Hectare,22200.0,Tonnes,0.336,Tonnes/Hectare,1997,0.33636363636363636
+2011-2012,Maharashtra,27,Thane,497,Small Millets,108.0,Cereals,Total,12400.0,Hectare,8400.0,Tonnes,0.677,Tonnes/Hectare,2011,0.6774193548387096
+2022-2023,Odisha,21,Ganjam,354,Maize,104.0,Cereals,Total,998.0,Hectare,1945.3,Tonnes,1.949,Tonnes/Hectare,2022,1.949198396793587
+2019-2020,Uttar Pradesh,9,Banda,128,Guar Seed,727.0,Vegetable,Kharif,28.0,Hectare,20.0,Tonnes,0.714,Tonnes/Hectare,2019,0.7142857142857143
+2020-2021,Telangana,36,Mancherial,684,Sunflower,1007.0,Oilseeds,Rabi,53.0,Hectare,145.0,Tonnes,2.736,Tonnes/Hectare,2020,2.7358490566037736
+2022-2023,Maharashtra,27,Palghar,665,Arhar/Tur,202.0,Pulses,Kharif,2903.0,Hectare,1865.0,Tonnes,0.642,Tonnes/Hectare,2022,0.6424388563554944
+2013-2014,Gujarat,24,Jamnagar,447,Garlic,508.0,Spices,Whole Year,7230.0,Hectare,41348.0,Tonnes,5.719,Tonnes/Hectare,2013,5.718948824343015
+1997-1998,Tamil Nadu,33,Cuddalore,570,Groundnut,1001.0,Oilseeds,Whole Year,40268.0,Hectare,85120.0,Tonnes,2.114,Tonnes/Hectare,1997,2.113837290155955
+2020-2021,Chhattisgarh,22,Sukma,642,Sweet Potato,703.0,Vegetable,Whole Year,17.0,Hectare,122.0,Tonnes,7.176,Tonnes/Hectare,2020,7.176470588235294
+2008-2009,Bihar,10,Samastipur,217,Rice,101.0,Cereals,Summer,1555.0,Hectare,2742.0,Tonnes,1.763,Tonnes/Hectare,2008,1.7633440514469454
+2016-2017,Jharkhand,20,Jamtara,333,Arhar/Tur,202.0,Pulses,Rabi,25.0,Hectare,19.0,Tonnes,0.76,Tonnes/Hectare,2016,0.76
+1997-1998,Bihar,10,Madhepura,205,Ginger,503.0,Spices,Kharif,20.0,Hectare,28.0,Tonnes,1.4,Tonnes/Hectare,1997,1.4
+2005-2006,Uttar Pradesh,9,Bulandshahr,134,Rice,101.0,Cereals,Kharif,45027.0,Hectare,102031.0,Tonnes,2.266,Tonnes/Hectare,2005,2.265995957980767
+2002-2003,Uttar Pradesh,9,Kannauj,155,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,10243.0,Hectare,11465.0,Tonnes,1.119,Tonnes/Hectare,2002,1.1193009860392462
+2006-2007,Rajasthan,8,Baran,89,Jowar,102.0,Cereals,Kharif,2075.0,Hectare,3310.0,Tonnes,1.595,Tonnes/Hectare,2006,1.5951807228915662
+2003-2004,Chhattisgarh,22,Bilaspur,375,Sannhamp,1104.0,Fiber Crops,Whole Year,121.0,Hectare,35.0,Tonnes,0.289,Tonnes/Hectare,2003,0.2892561983471074
+2004-2005,Madhya Pradesh,23,Ujjain,435,Cotton(Lint),1101.0,Fiber Crops,Kharif,172.0,Hectare,134.0,Tonnes,0.779,Tonnes/Hectare,2004,0.7790697674418605
+2016-2017,Jammu And Kashmir,1,Kathua,7,Maize,104.0,Cereals,Kharif,15304.0,Hectare,39381.0,Tonnes,2.573,Tonnes/Hectare,2016,2.5732488238369053
+2010-2011,Mizoram,15,Aizawl,261,Cowpea(Lobia),288.0,Pulses,Rabi,150.0,Hectare,211.0,Tonnes,1.407,Tonnes/Hectare,2010,1.4066666666666667
+2002-2003,Nagaland,13,Tuensang,249,Barley,107.0,Cereals,Rabi,600.0,Hectare,1110.0,Tonnes,1.85,Tonnes/Hectare,2002,1.85
+2022-2023,Uttar Pradesh,9,Shahjahanpur,180,Maize,104.0,Cereals,Total,2537.0,Hectare,5724.0,Tonnes,2.256,Tonnes/Hectare,2022,2.256208119826567
+2017-2018,Karnataka,29,Bengaluru South,631,Urad,203.0,Pulses,Kharif,10.0,Hectare,5.0,Tonnes,0.5,Tonnes/Hectare,2017,0.5
+2006-2007,Nagaland,13,Tuensang,249,Sesamum,1003.0,Oilseeds,Kharif,570.0,Hectare,380.0,Tonnes,0.667,Tonnes/Hectare,2006,0.6666666666666666
+2002-2003,Uttar Pradesh,9,Hamirpur,149,Soyabean,1009.0,Oilseeds,Kharif,51.0,Hectare,8.0,Tonnes,0.157,Tonnes/Hectare,2002,0.1568627450980392
+2015-2016,Madhya Pradesh,23,Satna,426,Maize,104.0,Cereals,Kharif,3000.0,Hectare,6000.0,Tonnes,2.0,Tonnes/Hectare,2015,2.0
+2021-2022,West Bengal,19,Murshidabad,319,Sesamum,1003.0,Oilseeds,Summer,24074.0,Hectare,21971.0,Tonnes,0.913,Tonnes/Hectare,2021,0.9126443465979895
+2001-2002,Maharashtra,27,Yavatmal,500,Other Rabi Pulses,288.0,Pulses,Rabi,800.0,Hectare,400.0,Tonnes,0.5,Tonnes/Hectare,2001,0.5
+2005-2006,Jammu And Kashmir,1,Rajouri,12,Urad,203.0,Pulses,Kharif,383.0,Hectare,191.8,Tonnes,0.501,Tonnes/Hectare,2005,0.5007832898172324
+2022-2023,Bihar,10,Sitamarhi,221,Sesamum,1003.0,Oilseeds,Kharif,38.0,Hectare,33.0,Tonnes,0.868,Tonnes/Hectare,2022,0.868421052631579
+2013-2014,Odisha,21,Angul,344,Groundnut,1001.0,Oilseeds,Total,1894.0,Hectare,2282.9,Tonnes,1.205,Tonnes/Hectare,2013,1.2053326293558606
+2003-2004,Andhra Pradesh,28,Sri Potti Sriramulu Nellore,515,Bajra,103.0,Cereals,Total,1228.0,Hectare,2002.0,Tonnes,1.63,Tonnes/Hectare,2003,1.6302931596091206
+2022-2023,Maharashtra,27,Amravati,468,Arhar/Tur,202.0,Pulses,Kharif,116835.0,Hectare,39630.0,Tonnes,0.339,Tonnes/Hectare,2022,0.3391963024778534
+2015-2016,Uttar Pradesh,9,Sonbhadra,184,Moong(Green Gram),204.0,Pulses,Kharif,30.0,Hectare,7.0,Tonnes,0.233,Tonnes/Hectare,2015,0.23333333333333334
+2016-2017,Karnataka,29,Mysuru,545,Cowpea(Lobia),288.0,Pulses,Rabi,1307.0,Hectare,31.0,Tonnes,0.024,Tonnes/Hectare,2016,0.023718439173680182
+2022-2023,Jharkhand,20,Deoghar,324,Sunflower,1007.0,Oilseeds,Kharif,2.0,Hectare,2.0,Tonnes,1.0,Tonnes/Hectare,2022,1.0
+2015-2016,Arunachal Pradesh,12,Siang,679,Dry Chillies,502.0,Spices,Whole Year,121.0,Hectare,361.0,Tonnes,2.983,Tonnes/Hectare,2015,2.9834710743801653
+2020-2021,Karnataka,29,Davanagere,535,Rice,101.0,Cereals,Summer,59304.0,Hectare,195466.0,Tonnes,3.296,Tonnes/Hectare,2020,3.296000269796304
+2010-2011,Haryana,6,Jind,65,Bajra,103.0,Cereals,Kharif,43201.0,Hectare,89000.0,Tonnes,2.06,Tonnes/Hectare,2010,2.0601374968172035
+2014-2015,Bihar,10,Purbi Champaran,213,Rice,101.0,Cereals,Winter,96376.0,Hectare,181633.0,Tonnes,1.885,Tonnes/Hectare,2014,1.8846289532663734
+2022-2023,Uttarakhand,5,Nainital,51,Maize,104.0,Cereals,Summer,1.0,Hectare,3.0,Tonnes,3.0,Tonnes/Hectare,2022,3.0
+2010-2011,Gujarat,24,Dangs,444,Urad,203.0,Pulses,Kharif,5300.0,Hectare,3500.0,Tonnes,0.66,Tonnes/Hectare,2010,0.660377358490566
+2016-2017,Gujarat,24,Panch Mahals,454,Moong(Green Gram),204.0,Pulses,Kharif,74.0,Hectare,34.0,Tonnes,0.459,Tonnes/Hectare,2016,0.4594594594594595
+2019-2020,Bihar,10,Sheohar,220,Moong(Green Gram),204.0,Pulses,Summer,1033.0,Hectare,623.0,Tonnes,0.603,Tonnes/Hectare,2019,0.6030977734753146
+2012-2013,Gujarat,24,Gandhinagar,446,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,3800.0,Hectare,6100.0,Tonnes,1.605,Tonnes/Hectare,2012,1.605263157894737
+2013-2014,Odisha,21,Mayurbhanj,365,Maize,104.0,Cereals,Winter,22.0,Hectare,44.4,Tonnes,2.018,Tonnes/Hectare,2013,2.018181818181818
+2007-2008,Tamil Nadu,33,Krishnagiri,577,Coriander,509.0,Spices,Whole Year,109.0,Hectare,42.0,Tonnes,0.385,Tonnes/Hectare,2007,0.3853211009174312
+1999-2000,Tamil Nadu,33,Namakkal,580,Varagu,188.0,Cereals,Kharif,261.0,Hectare,193.0,Tonnes,0.739,Tonnes/Hectare,1999,0.7394636015325671
+2008-2009,Madhya Pradesh,23,Burhanpur,397,Maize,104.0,Cereals,Kharif,4233.0,Hectare,7692.0,Tonnes,1.817,Tonnes/Hectare,2008,1.8171509567682496
+2015-2016,Chhattisgarh,22,Raigarh,386,Moong(Green Gram),204.0,Pulses,Rabi,1657.0,Hectare,1246.0,Tonnes,0.752,Tonnes/Hectare,2015,0.751961375980688
+2013-2014,Assam,18,Baksa,616,Rice,101.0,Cereals,Autumn,10200.0,Hectare,16672.0,Tonnes,1.635,Tonnes/Hectare,2013,1.6345098039215686
+1999-2000,Tamil Nadu,33,Vellore,595,Castor Seed,1002.0,Oilseeds,Kharif,738.0,Hectare,280.0,Tonnes,0.379,Tonnes/Hectare,1999,0.3794037940379404
+2015-2016,Tamil Nadu,33,Theni,588,Groundnut,1001.0,Oilseeds,Rabi,221.0,Hectare,728.0,Tonnes,3.294,Tonnes/Hectare,2015,3.2941176470588234
+2010-2011,Andhra Pradesh,28,Guntur,506,Castor Seed,1002.0,Oilseeds,Kharif,1780.0,Hectare,603.0,Tonnes,0.339,Tonnes/Hectare,2010,0.33876404494382023
+2019-2020,Meghalaya,17,South Garo Hills,277,Cashewnut,619.0,Fruits,Rabi,4443.0,Hectare,3638.0,Tonnes,0.819,Tonnes/Hectare,2019,0.8188161152374521
+2018-2019,Uttar Pradesh,9,Mahoba,165,Potato,701.0,Vegetable,Rabi,115.0,Hectare,3433.0,Tonnes,29.852,Tonnes/Hectare,2018,29.85217391304348
+2006-2007,Assam,18,Karbi Anglong,292,Masoor,205.0,Pulses,Rabi,205.0,Hectare,98.0,Tonnes,0.478,Tonnes/Hectare,2006,0.47804878048780486
+2013-2014,Madhya Pradesh,23,Katni,413,Garlic,508.0,Spices,Whole Year,102.0,Hectare,283.0,Tonnes,2.775,Tonnes/Hectare,2013,2.7745098039215685
+2022-2023,Telangana,36,Medak,513,Dry Chillies,502.0,Spices,Rabi,6.0,Hectare,31.0,Tonnes,5.167,Tonnes/Hectare,2022,5.166666666666667
+2016-2017,Tamil Nadu,33,Theni,588,Ragi,105.0,Cereals,Kharif,7.0,Hectare,12.0,Tonnes,1.714,Tonnes/Hectare,2016,1.7142857142857142
+2010-2011,Uttar Pradesh,9,Deoria,137,Onion,708.0,Vegetable,Rabi,29.0,Hectare,534.0,Tonnes,18.414,Tonnes/Hectare,2010,18.413793103448278
+2013-2014,Madhya Pradesh,23,Jhabua,412,Garlic,508.0,Spices,Whole Year,204.0,Hectare,774.0,Tonnes,3.794,Tonnes/Hectare,2013,3.7941176470588234
+2009-2010,Chhattisgarh,22,Mahasamund,385,Jowar,102.0,Cereals,Kharif,30.0,Hectare,35.0,Tonnes,1.167,Tonnes/Hectare,2009,1.1666666666666667
+2016-2017,Andhra Pradesh,28,Ananthapuramu,502,Cowpea(Lobia),288.0,Pulses,Total,516.0,Hectare,23.0,Tonnes,0.045,Tonnes/Hectare,2016,0.044573643410852716
+2003-2004,Chhattisgarh,22,Durg,378,Urad,203.0,Pulses,Total,4781.0,Hectare,1257.0,Tonnes,0.263,Tonnes/Hectare,2003,0.2629157080108764
+2016-2017,Chhattisgarh,22,Balrampur-Ramanujganj,649,Other Kharif Pulses,288.0,Pulses,Kharif,326.0,Hectare,76.0,Tonnes,0.233,Tonnes/Hectare,2016,0.2331288343558282
+2018-2019,Tamil Nadu,33,Theni,588,Small Millets,108.0,Cereals,Total,60.0,Hectare,100.0,Tonnes,1.667,Tonnes/Hectare,2018,1.6666666666666667
+2008-2009,Rajasthan,8,Jhalawar,105,Moong(Green Gram),204.0,Pulses,Kharif,226.0,Hectare,95.0,Tonnes,0.42,Tonnes/Hectare,2008,0.42035398230088494
+2018-2019,Odisha,21,Jagatsinghapur,355,Horse-Gram,206.0,Pulses,Winter,206.0,Hectare,81.0,Tonnes,0.393,Tonnes/Hectare,2018,0.3932038834951456
+2018-2019,Tamil Nadu,33,Tiruppur,634,Gram,201.0,Pulses,Rabi,2134.0,Hectare,1976.0,Tonnes,0.926,Tonnes/Hectare,2018,0.9259606373008434
+2001-2002,Bihar,10,Samastipur,217,Small Millets,108.0,Cereals,Kharif,59.0,Hectare,47.0,Tonnes,0.797,Tonnes/Hectare,2001,0.7966101694915254
+2015-2016,Assam,18,Tinsukia,302,Mesta,1103.0,Fiber Crops,Kharif,1.0,Hectare,5.0,Tonnes,5.0,Tonnes/Hectare,2015,5.0
+2022-2023,Andhra Pradesh,28,Anakapalli,744,Moong(Green Gram),204.0,Pulses,Kharif,156.0,Hectare,100.0,Tonnes,0.641,Tonnes/Hectare,2022,0.6410256410256411
+2013-2014,Jharkhand,20,Sahebganj,340,Onion,708.0,Vegetable,Rabi,99.0,Hectare,1084.0,Tonnes,10.949,Tonnes/Hectare,2013,10.94949494949495
+1999-2000,Rajasthan,8,Bharatpur,91,Sweet Potato,703.0,Vegetable,Whole Year,504.0,Hectare,1572.0,Tonnes,3.119,Tonnes/Hectare,1999,3.119047619047619
+2010-2011,West Bengal,19,Cooch Behar,308,Tobacco,1302.0,Drugs And Narcotics,Whole Year,13475.0,Hectare,20483.0,Tonnes,1.52,Tonnes/Hectare,2010,1.520074211502783
+2022-2023,Odisha,21,Sundargarh,373,Maize,104.0,Cereals,Summer,42.0,Hectare,127.4,Tonnes,3.033,Tonnes/Hectare,2022,3.0333333333333337
+2003-2004,Madhya Pradesh,23,Damoh,400,Groundnut,1001.0,Oilseeds,Kharif,803.0,Hectare,688.0,Tonnes,0.857,Tonnes/Hectare,2003,0.8567870485678705
+2005-2006,Madhya Pradesh,23,Khandwa (East Nimar),405,Sweet Potato,703.0,Vegetable,Whole Year,53.0,Hectare,284.0,Tonnes,5.358,Tonnes/Hectare,2005,5.3584905660377355
+1999-2000,West Bengal,19,Purba Bardhaman,306,Arecanut,507.0,Spices,Whole Year,108.0,Hectare,320.0,Tonnes,2.963,Tonnes/Hectare,1999,2.962962962962963
+2021-2022,Odisha,21,Nuapada,368,Maize,104.0,Cereals,Summer,3.0,Hectare,6.8,Tonnes,2.267,Tonnes/Hectare,2021,2.2666666666666666
+2014-2015,Odisha,21,Bargarh,347,Rapeseed &Mustard,1004.0,Oilseeds,Winter,446.0,Hectare,147.2,Tonnes,0.33,Tonnes/Hectare,2014,0.33004484304932735
+2013-2014,Assam,18,Sonitpur,301,Pineapple,623.0,Fruits,Rabi,845.0,Hectare,14907.0,Tonnes,17.641,Tonnes/Hectare,2013,17.641420118343195
+1998-1999,Bihar,10,Aurangabad,189,Sesamum,1003.0,Oilseeds,Kharif,345.0,Hectare,180.0,Tonnes,0.522,Tonnes/Hectare,1998,0.5217391304347826
+2005-2006,Rajasthan,8,Barmer,90,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,22065.0,Hectare,27099.0,Tonnes,1.228,Tonnes/Hectare,2005,1.228144119646499
+2004-2005,Uttar Pradesh,9,Kanpur Dehat,156,Wheat,106.0,Cereals,Rabi,116802.0,Hectare,377903.0,Tonnes,3.235,Tonnes/Hectare,2004,3.235415489460797
+2005-2006,Assam,18,Golaghat,288,Tapioca,702.0,Vegetable,Whole Year,10.0,Hectare,40.0,Tonnes,4.0,Tonnes/Hectare,2005,4.0
+2017-2018,Assam,18,Jorhat,290,Peas & Beans (Pulses),213.0,Pulses,Rabi,2279.0,Hectare,2187.0,Tonnes,0.96,Tonnes/Hectare,2017,0.9596314172882844
+2015-2016,Tamil Nadu,33,Theni,588,Small Millets,108.0,Cereals,Total,35.0,Hectare,46.0,Tonnes,1.314,Tonnes/Hectare,2015,1.3142857142857143
+2004-2005,Bihar,10,Nalanda,209,Turmeric,504.0,Spices,Whole Year,2.0,Hectare,2.0,Tonnes,1.0,Tonnes/Hectare,2004,1.0
+2019-2020,Arunachal Pradesh,12,Upper Subansiri,241,Urad,203.0,Pulses,Kharif,42.0,Hectare,60.0,Tonnes,1.429,Tonnes/Hectare,2019,1.4285714285714286
+2008-2009,Uttarakhand,5,Almora,45,Other Cereals,188.0,Cereals,Rabi,222.0,Hectare,159.0,Tonnes,0.716,Tonnes/Hectare,2008,0.7162162162162162
+2002-2003,Tamil Nadu,33,Ramanathapuram,583,Mango,601.0,Fruits,Whole Year,121.0,Hectare,725.0,Tonnes,5.992,Tonnes/Hectare,2002,5.991735537190083
+2012-2013,Karnataka,29,Chitradurga,533,Groundnut,1001.0,Oilseeds,Total,74553.0,Hectare,45214.0,Tonnes,0.606,Tonnes/Hectare,2012,0.6064678819095141
+2022-2023,Jharkhand,20,Koderma,334,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,15987.0,Hectare,14388.0,Tonnes,0.9,Tonnes/Hectare,2022,0.899981234753237
+2012-2013,Bihar,10,Supaul,223,Maize,104.0,Cereals,Autumn,2446.0,Hectare,14331.0,Tonnes,5.859,Tonnes/Hectare,2012,5.858953393295176
+2007-2008,Punjab,3,Hoshiarpur,33,Sesamum,1003.0,Oilseeds,Kharif,700.0,Hectare,100.0,Tonnes,0.143,Tonnes/Hectare,2007,0.14285714285714285
+2012-2013,Maharashtra,27,Solapur,496,Soyabean,1009.0,Oilseeds,Kharif,5500.0,Hectare,11500.0,Tonnes,2.091,Tonnes/Hectare,2012,2.090909090909091
+2002-2003,Punjab,3,Fatehgarh Sahib,30,Arhar/Tur,202.0,Pulses,Kharif,200.0,Hectare,200.0,Tonnes,1.0,Tonnes/Hectare,2002,1.0
+2001-2002,Gujarat,24,Panch Mahals,454,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,400.0,Hectare,500.0,Tonnes,1.25,Tonnes/Hectare,2001,1.25
+2019-2020,Uttar Pradesh,9,Etawah,139,Urad,203.0,Pulses,Total,1430.0,Hectare,1101.0,Tonnes,0.77,Tonnes/Hectare,2019,0.76993006993007
+2008-2009,Tamil Nadu,33,Namakkal,580,Maize,104.0,Cereals,Whole Year,7937.0,Hectare,43589.0,Tonnes,5.492,Tonnes/Hectare,2008,5.491873503842762
+1997-1998,Tamil Nadu,33,Thoothukkudi,594,Urad,203.0,Pulses,Whole Year,15325.0,Hectare,7240.0,Tonnes,0.472,Tonnes/Hectare,1997,0.4724306688417618
+2015-2016,Manipur,14,Churachandpur,254,Wheat,106.0,Cereals,Rabi,460.0,Hectare,1130.0,Tonnes,2.457,Tonnes/Hectare,2015,2.4565217391304346
+2000-2001,West Bengal,19,South 24 Parganas,304,Rice,101.0,Cereals,Winter,335463.0,Hectare,628220.0,Tonnes,1.873,Tonnes/Hectare,2000,1.8726953494126028
+2017-2018,Rajasthan,8,Sirohi,115,Banana,606.0,Fruits,Whole Year,3.0,Hectare,3.0,Tonnes,1.0,Tonnes/Hectare,2017,1.0
+2018-2019,Arunachal Pradesh,12,Lower Dibang Valley,235,Urad,203.0,Pulses,Kharif,86.0,Hectare,78.0,Tonnes,0.907,Tonnes/Hectare,2018,0.9069767441860465
+2011-2012,Telangana,36,Medak,513,Rice,101.0,Cereals,Rabi,46632.0,Hectare,121383.0,Tonnes,2.603,Tonnes/Hectare,2011,2.6029979413278435
+2013-2014,Puducherry,34,Puducherry,600,Other Rabi Pulses,288.0,Pulses,Summer,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,2013,1.0
+2016-2017,Uttar Pradesh,9,Bara Banki,129,Dry Chillies,502.0,Spices,Kharif,262.0,Hectare,242.0,Tonnes,0.924,Tonnes/Hectare,2016,0.9236641221374046
+2011-2012,Uttar Pradesh,9,Kheri,159,Urad,203.0,Pulses,Summer,155.0,Hectare,88.0,Tonnes,0.568,Tonnes/Hectare,2011,0.567741935483871
+2014-2015,Karnataka,29,Hassan,539,Tobacco,1302.0,Drugs And Narcotics,Whole Year,12037.0,Hectare,10543.0,Tonnes,0.876,Tonnes/Hectare,2014,0.875882695023677
+2019-2020,Karnataka,29,Davanagere,535,Cowpea(Lobia),288.0,Pulses,Rabi,276.0,Hectare,135.0,Tonnes,0.489,Tonnes/Hectare,2019,0.4891304347826087
+2012-2013,Rajasthan,8,Chittorgarh,95,Peas & Beans (Pulses),213.0,Pulses,Rabi,188.0,Hectare,207.0,Tonnes,1.101,Tonnes/Hectare,2012,1.101063829787234
+2001-2002,Maharashtra,27,Akola,467,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,100.0,Hectare,10.0,Tonnes,0.1,Tonnes/Hectare,2001,0.1
+2007-2008,Andhra Pradesh,28,Visakhapatnam,520,Dry Chillies,502.0,Spices,Kharif,1000.0,Hectare,3000.0,Tonnes,3.0,Tonnes/Hectare,2007,3.0
+2019-2020,Bihar,10,Pashchim Champaran,211,Wheat,106.0,Cereals,Rabi,71187.0,Hectare,204770.0,Tonnes,2.877,Tonnes/Hectare,2019,2.8765083512439067
+2008-2009,West Bengal,19,Jalpaiguri,314,Rice,101.0,Cereals,Winter,179331.0,Hectare,301641.0,Tonnes,1.682,Tonnes/Hectare,2008,1.6820348963648226
+2012-2013,Kerala,32,Idukki,556,Papaya,615.0,Fruits,Whole Year,916.0,Hectare,6251.0,Tonnes,6.824,Tonnes/Hectare,2012,6.824235807860262
+2004-2005,Odisha,21,Bargarh,347,Rapeseed &Mustard,1004.0,Oilseeds,Winter,460.0,Hectare,121.9,Tonnes,0.265,Tonnes/Hectare,2004,0.265
+1998-1999,Uttar Pradesh,9,Pratapgarh,174,Rice,101.0,Cereals,Kharif,111838.0,Hectare,174882.0,Tonnes,1.564,Tonnes/Hectare,1998,1.5637082208193995
+2011-2012,Rajasthan,8,Bharatpur,91,Coriander,509.0,Spices,Whole Year,17.0,Hectare,21.0,Tonnes,1.235,Tonnes/Hectare,2011,1.2352941176470589
+2008-2009,Maharashtra,27,Jalna,479,Sunflower,1007.0,Oilseeds,Kharif,1500.0,Hectare,700.0,Tonnes,0.467,Tonnes/Hectare,2008,0.4666666666666667
+2017-2018,Maharashtra,27,Gadchiroli,475,Other Cereals,188.0,Cereals,Kharif,150.0,Hectare,45.0,Tonnes,0.3,Tonnes/Hectare,2017,0.3
+2003-2004,Karnataka,29,Uttara Kannada,550,Gram,201.0,Pulses,Rabi,10.0,Hectare,3.0,Tonnes,0.3,Tonnes/Hectare,2003,0.3
+2021-2022,Uttar Pradesh,9,Mirzapur,170,Rice,101.0,Cereals,Kharif,87568.0,Hectare,273650.0,Tonnes,3.125,Tonnes/Hectare,2021,3.125
+2002-2003,Manipur,14,Tamenglong,258,Pineapple,623.0,Fruits,Whole Year,750.0,Hectare,5720.0,Tonnes,7.627,Tonnes/Hectare,2002,7.626666666666667
+2018-2019,Madhya Pradesh,23,Barwani,393,Ginger,503.0,Spices,Whole Year,347.0,Hectare,5205.0,Tonnes,15.0,Tonnes/Hectare,2018,15.0
+2015-2016,Odisha,21,Kandhamal,359,Groundnut,1001.0,Oilseeds,Autumn,125.0,Hectare,113.5,Tonnes,0.908,Tonnes/Hectare,2015,0.908
+2003-2004,Puducherry,34,Karaikal,598,Sugarcane,401.0,Sugar,Whole Year,23.0,Hectare,564.0,Tonnes,24.522,Tonnes/Hectare,2003,24.52173913043478
+2001-2002,Nagaland,13,Dimapur,244,Peas & Beans (Pulses),213.0,Pulses,Total,1570.0,Hectare,1620.0,Tonnes,1.032,Tonnes/Hectare,2001,1.0318471337579618
+2007-2008,Assam,18,Kamrup Metro,618,Cotton(Lint),1101.0,Fiber Crops,Kharif,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,2007,0.5
+1998-1999,Odisha,21,Kalahandi,358,Moong(Green Gram),204.0,Pulses,Autumn,114.0,Hectare,26.0,Tonnes,0.228,Tonnes/Hectare,1998,0.22807017543859648
+2012-2013,West Bengal,19,Bankura,305,Horse-Gram,206.0,Pulses,Kharif,27.0,Hectare,14.0,Tonnes,0.519,Tonnes/Hectare,2012,0.5185185185185185
+2004-2005,Bihar,10,Sheohar,220,Tobacco,1302.0,Drugs And Narcotics,Whole Year,63.0,Hectare,73.0,Tonnes,1.159,Tonnes/Hectare,2004,1.1587301587301588
+2000-2001,Uttar Pradesh,9,Prayagraj,120,Jowar,102.0,Cereals,Kharif,10292.0,Hectare,7671.0,Tonnes,0.745,Tonnes/Hectare,2000,0.7453361834434512
+2002-2003,Madhya Pradesh,23,Gwalior,407,Coriander,509.0,Spices,Whole Year,30.0,Hectare,8.0,Tonnes,0.267,Tonnes/Hectare,2002,0.26666666666666666
+2016-2017,Andhra Pradesh,28,Y.S.R. Kadapa,504,Rapeseed &Mustard,1004.0,Oilseeds,Kharif,6.0,Hectare,3.0,Tonnes,0.5,Tonnes/Hectare,2016,0.5
+2013-2014,Uttar Pradesh,9,Balrampur,127,Wheat,106.0,Cereals,Rabi,85817.0,Hectare,236801.0,Tonnes,2.759,Tonnes/Hectare,2013,2.7593716862626287
+2013-2014,Assam,18,Nagaon,297,Niger Seed,1010.0,Oilseeds,Kharif,494.0,Hectare,271.0,Tonnes,0.549,Tonnes/Hectare,2013,0.548582995951417
+2018-2019,Tamil Nadu,33,Kanniyakumari,575,Rice,101.0,Cereals,Winter,5953.0,Hectare,25540.0,Tonnes,4.29,Tonnes/Hectare,2018,4.290273811523601
+2006-2007,Uttar Pradesh,9,Kannauj,155,Sugarcane,401.0,Sugar,Kharif,358.0,Hectare,20322.0,Tonnes,56.765,Tonnes/Hectare,2006,56.76536312849162
+2021-2022,Uttar Pradesh,9,Deoria,137,Wheat,106.0,Cereals,Rabi,159816.0,Hectare,534585.0,Tonnes,3.345,Tonnes/Hectare,2021,3.345003003453972
+2014-2015,Maharashtra,27,Hingoli,477,Small Millets,108.0,Cereals,Rabi,900.0,Hectare,200.0,Tonnes,0.222,Tonnes/Hectare,2014,0.2222222222222222
+2011-2012,Madhya Pradesh,23,Mandla,415,Dry Chillies,502.0,Spices,Whole Year,155.0,Hectare,109.0,Tonnes,0.703,Tonnes/Hectare,2011,0.7032258064516129
+2002-2003,Kerala,32,Ernakulam,555,Bitter Gourd,725.0,Vegetable,Whole Year,142.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,2002,0.0
+2001-2002,Karnataka,29,Mysuru,545,Horse-Gram,206.0,Pulses,Total,60264.0,Hectare,40343.0,Tonnes,0.669,Tonnes/Hectare,2001,0.6694378069826098
+2017-2018,Telangana,36,Medak,513,Moong(Green Gram),204.0,Pulses,Kharif,2063.0,Hectare,1362.0,Tonnes,0.66,Tonnes/Hectare,2017,0.6602035870092099
+2013-2014,Assam,18,Dhubri,285,Arhar/Tur,202.0,Pulses,Kharif,80.0,Hectare,67.0,Tonnes,0.838,Tonnes/Hectare,2013,0.8375
+2003-2004,Andhra Pradesh,28,Chittoor,503,Cashewnut,619.0,Fruits,Whole Year,124.0,Hectare,33.0,Tonnes,0.266,Tonnes/Hectare,2003,0.2661290322580645
+2011-2012,West Bengal,19,Darjeeling,309,Khesari,521.0,Spices,Rabi,8.0,Hectare,8.0,Tonnes,1.0,Tonnes/Hectare,2011,1.0
+2009-2010,Rajasthan,8,Chittorgarh,95,Masoor,205.0,Pulses,Rabi,426.0,Hectare,294.0,Tonnes,0.69,Tonnes/Hectare,2009,0.6901408450704225
+2008-2009,Maharashtra,27,Ahilyanagar,466,Sesamum,1003.0,Oilseeds,Kharif,100.0,Hectare,100.0,Tonnes,1.0,Tonnes/Hectare,2008,1.0
+2019-2020,Uttar Pradesh,9,Amethi,640,Sweet Potato,703.0,Vegetable,Kharif,936.0,Hectare,10991.0,Tonnes,11.743,Tonnes/Hectare,2019,11.742521367521368
+2022-2023,Rajasthan,8,Bikaner,93,Other Kharif Pulses,288.0,Pulses,Kharif,3.0,Hectare,2.0,Tonnes,0.667,Tonnes/Hectare,2022,0.6666666666666666
+2017-2018,Tamil Nadu,33,Tirunelveli,592,Small Millets,108.0,Cereals,Total,3.0,Hectare,1.0,Tonnes,0.333,Tonnes/Hectare,2017,0.3333333333333333
+2000-2001,Haryana,6,Karnal,67,Masoor,205.0,Pulses,Rabi,714.0,Hectare,600.0,Tonnes,0.84,Tonnes/Hectare,2000,0.8403361344537815
+2014-2015,Andhra Pradesh,28,Y.S.R. Kadapa,504,Turmeric,504.0,Spices,Kharif,3285.0,Hectare,26694.0,Tonnes,8.126,Tonnes/Hectare,2014,8.126027397260273
+2014-2015,Madhya Pradesh,23,Anuppur,390,Masoor,205.0,Pulses,Rabi,9000.0,Hectare,8000.0,Tonnes,0.889,Tonnes/Hectare,2014,0.8888888888888888
+2007-2008,Bihar,10,Begusarai,191,Coriander,509.0,Spices,Whole Year,45.0,Hectare,33.0,Tonnes,0.733,Tonnes/Hectare,2007,0.7333333333333333
+1997-1998,Assam,18,Tinsukia,302,Sugarcane,401.0,Sugar,Kharif,484.0,Hectare,19897.0,Tonnes,41.11,Tonnes/Hectare,1997,41.10950413223141
+2014-2015,Odisha,21,Jharsuguda,357,Groundnut,1001.0,Oilseeds,Summer,58.0,Hectare,94.0,Tonnes,1.621,Tonnes/Hectare,2014,1.6206896551724137
+2005-2006,Uttarakhand,5,Uttarkashi,57,Potato,701.0,Vegetable,Whole Year,3456.0,Hectare,58061.0,Tonnes,16.8,Tonnes/Hectare,2005,16.80005787037037
+1997-1998,Karnataka,29,Kolar,542,Maize,104.0,Cereals,Summer,740.0,Hectare,1601.0,Tonnes,2.164,Tonnes/Hectare,1997,2.1635135135135135
+2005-2006,Jammu And Kashmir,1,Srinagar,13,Maize,104.0,Cereals,Kharif,5003.0,Hectare,5110.0,Tonnes,1.021,Tonnes/Hectare,2005,1.0213871676993804
+2002-2003,Himachal Pradesh,2,Mandi,22,Gram,201.0,Pulses,Rabi,36.0,Hectare,36.0,Tonnes,1.0,Tonnes/Hectare,2002,1.0
+2011-2012,Andhra Pradesh,28,Kurnool,511,Urad,203.0,Pulses,Rabi,8925.0,Hectare,6256.0,Tonnes,0.701,Tonnes/Hectare,2011,0.700952380952381
+1997-1998,Jharkhand,20,East Singhbum,327,Sannhamp,1104.0,Fiber Crops,Whole Year,13.0,Hectare,9.0,Tonnes,0.692,Tonnes/Hectare,1997,0.6923076923076923
+2017-2018,West Bengal,19,Purba Bardhaman,306,Khesari,521.0,Spices,Rabi,1107.0,Hectare,1074.0,Tonnes,0.97,Tonnes/Hectare,2017,0.9701897018970189
+2013-2014,Bihar,10,Jamui,198,Khesari,521.0,Spices,Rabi,79.0,Hectare,118.0,Tonnes,1.494,Tonnes/Hectare,2013,1.4936708860759493
+2018-2019,Madhya Pradesh,23,Gwalior,407,Wheat,106.0,Cereals,Rabi,140836.0,Hectare,523109.0,Tonnes,3.714,Tonnes/Hectare,2018,3.7143131017637536
+2013-2014,Telangana,36,Khammam,509,Arhar/Tur,202.0,Pulses,Rabi,83.0,Hectare,48.0,Tonnes,0.578,Tonnes/Hectare,2013,0.5783132530120482
+2004-2005,Maharashtra,27,Parbhani,489,Sunflower,1007.0,Oilseeds,Kharif,4700.0,Hectare,1900.0,Tonnes,0.404,Tonnes/Hectare,2004,0.40425531914893614
+2007-2008,Uttar Pradesh,9,Etawah,139,Onion,708.0,Vegetable,Total,59.0,Hectare,719.0,Tonnes,12.186,Tonnes/Hectare,2007,12.186440677966102
+2014-2015,Jharkhand,20,East Singhbum,327,Gram,201.0,Pulses,Rabi,200.0,Hectare,148.0,Tonnes,0.74,Tonnes/Hectare,2014,0.74
+2000-2001,The Dadra And Nagar Haveli And Daman And Diu,38,Dadra And Nagar Haveli,465,Other Rabi Pulses,288.0,Pulses,Rabi,3940.0,Hectare,3940.0,Tonnes,1.0,Tonnes/Hectare,2000,1.0
+1998-1999,Karnataka,29,Ballari,528,Bajra,103.0,Cereals,Kharif,25918.0,Hectare,24114.0,Tonnes,0.93,Tonnes/Hectare,1998,0.9303958638783857
+2014-2015,Odisha,21,Puri,369,Rice,101.0,Cereals,Total,131000.0,Hectare,277000.0,Tonnes,2.115,Tonnes/Hectare,2014,2.114503816793893
+1999-2000,Maharashtra,27,Nanded,485,Wheat,106.0,Cereals,Rabi,33400.0,Hectare,39100.0,Tonnes,1.171,Tonnes/Hectare,1999,1.1706586826347305
+2022-2023,Tamil Nadu,33,Nagapattinam,579,Dry Chillies,502.0,Spices,Whole Year,27.0,Hectare,13.0,Tonnes,0.481,Tonnes/Hectare,2022,0.48148148148148145
+2019-2020,Nagaland,13,Kohima,245,Peas & Beans (Pulses),213.0,Pulses,Total,972.0,Hectare,1161.0,Tonnes,1.194,Tonnes/Hectare,2019,1.1944444444444444
+2001-2002,Madhya Pradesh,23,Mandla,415,Other Kharif Pulses,288.0,Pulses,Kharif,2997.0,Hectare,729.0,Tonnes,0.243,Tonnes/Hectare,2001,0.24324324324324326
+1999-2000,Assam,18,Cachar,282,Small Millets,108.0,Cereals,Kharif,22.0,Hectare,9.0,Tonnes,0.409,Tonnes/Hectare,1999,0.4090909090909091
+2004-2005,Gujarat,24,Bharuch,442,Maize,104.0,Cereals,Kharif,2200.0,Hectare,2000.0,Tonnes,0.909,Tonnes/Hectare,2004,0.9090909090909091
+2022-2023,West Bengal,19,Howrah,313,Masoor,205.0,Pulses,Rabi,85.0,Hectare,70.0,Tonnes,0.824,Tonnes/Hectare,2022,0.8235294117647058
+2017-2018,Uttar Pradesh,9,Bulandshahr,134,Moong(Green Gram),204.0,Pulses,Summer,907.0,Hectare,732.0,Tonnes,0.807,Tonnes/Hectare,2017,0.8070562293274531
+2019-2020,Karnataka,29,Udupi,549,Cowpea(Lobia),288.0,Pulses,Summer,44.0,Hectare,11.0,Tonnes,0.25,Tonnes/Hectare,2019,0.25
+2016-2017,Telangana,36,Mahabubabad,688,Sesamum,1003.0,Oilseeds,Total,162.0,Hectare,25.0,Tonnes,0.154,Tonnes/Hectare,2016,0.15432098765432098
+2004-2005,Arunachal Pradesh,12,Lower Dibang Valley,235,Small Millets,108.0,Cereals,Kharif,1322.0,Hectare,1005.0,Tonnes,0.76,Tonnes/Hectare,2004,0.7602118003025718
+2002-2003,Jharkhand,20,Godda,330,Rice,101.0,Cereals,Total,52784.71,Hectare,67327.217,Tonnes,1.276,Tonnes/Hectare,2002,1.2755060508999672
+2020-2021,Telangana,36,Narayanpet,721,Rice,101.0,Cereals,Total,80798.0,Hectare,261165.0,Tonnes,3.232,Tonnes/Hectare,2020,3.23232010693334
+1998-1999,Uttar Pradesh,9,Hardoi,150,Sesamum,1003.0,Oilseeds,Kharif,8882.0,Hectare,417.0,Tonnes,0.047,Tonnes/Hectare,1998,0.04694888538617428
+2008-2009,Nagaland,13,Mokokchung,246,Other Kharif Pulses,288.0,Pulses,Kharif,90.0,Hectare,70.0,Tonnes,0.778,Tonnes/Hectare,2008,0.7777777777777778
+2014-2015,Madhya Pradesh,23,Bhind,395,Rapeseed &Mustard,1004.0,Oilseeds,Rabi,130000.0,Hectare,131000.0,Tonnes,1.008,Tonnes/Hectare,2014,1.0076923076923077
+2022-2023,Tamil Nadu,33,Salem,584,Tapioca,702.0,Vegetable,Whole Year,13117.0,Hectare,538936.0,Tonnes,41.087,Tonnes/Hectare,2022,41.086833879698105
+1998-1999,Odisha,21,Nuapada,368,Maize,104.0,Cereals,Winter,7.0,Hectare,3.0,Tonnes,0.429,Tonnes/Hectare,1998,0.42857142857142855
+2010-2011,Punjab,3,Bathinda,28,Guar Seed,727.0,Vegetable,Kharif,4100.0,Hectare,3300.0,Tonnes,0.805,Tonnes/Hectare,2010,0.8048780487804879
+2002-2003,West Bengal,19,Bankura,305,Sesamum,1003.0,Oilseeds,Total,12942.0,Hectare,8709.0,Tonnes,0.673,Tonnes/Hectare,2002,0.6729253592953176
+2018-2019,Tamil Nadu,33,Sivaganga,585,Tapioca,702.0,Vegetable,Whole Year,12.0,Hectare,417.0,Tonnes,34.75,Tonnes/Hectare,2018,34.75
+2007-2008,Manipur,14,Imphal West,256,Dry Chillies,502.0,Spices,Whole Year,370.0,Hectare,220.0,Tonnes,0.595,Tonnes/Hectare,2007,0.5945945945945946
+2016-2017,Madhya Pradesh,23,Shahdol,429,Linseed,1005.0,Oilseeds,Rabi,6000.0,Hectare,2000.0,Tonnes,0.333,Tonnes/Hectare,2016,0.3333333333333333
+2001-2002,Karnataka,29,Mysuru,545,Niger Seed,1010.0,Oilseeds,Kharif,3277.0,Hectare,675.0,Tonnes,0.206,Tonnes/Hectare,2001,0.20598108025633202
+1998-1999,Gujarat,24,Bhavnagar,443,Bajra,103.0,Cereals,Kharif,100100.0,Hectare,180200.0,Tonnes,1.8,Tonnes/Hectare,1998,1.8001998001998003
+2017-2018,West Bengal,19,Uttar Dinajpur,311,Jute,1102.0,Fiber Crops,Kharif,36877.0,Hectare,492522.0,Tonnes,13.356,Tonnes/Hectare,2017,13.355804430946119
