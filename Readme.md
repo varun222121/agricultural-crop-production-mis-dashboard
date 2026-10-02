@@ -1,4 +1,4 @@
-# Agricultural Crop Production MIS Dashboard
+# Agricultural Crop Production Analysis
 
 An end-to-end data analysis and MIS dashboard project that analyses agricultural crop production, cultivated area, and yield across Indian states, districts, crop types, seasons, and crop years.
 
