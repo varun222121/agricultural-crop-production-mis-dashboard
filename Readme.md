@@ -368,7 +368,7 @@ Update this section after completing the Power BI dashboard. Use the actual resu
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-LINK>
+git clone <(https://github.com/varun222121/agricultural-crop-production-mis-dashboard.git)>
 ```
 
 ### 2. Install Python libraries
